@@ -1,0 +1,18 @@
+{
+  "include": ["."],
+  "exclude": [
+    "**/__pycache__",
+    "**/.qodo",
+    "**/backtest/results",
+    "**/Dataset"
+  ],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": ["."]
+    }
+  ],
+  "reportMissingImports": true,
+  "reportMissingTypeStubs": "none"
+}
+

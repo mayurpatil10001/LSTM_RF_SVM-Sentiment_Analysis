@@ -1,0 +1,301 @@
+Date,Headline,Sentiment,Impact,Source
+2020-01-01,ADANIPORTS major event 1,Neutral,4,Moneycontrol
+2020-01-08,ADANIPORTS major event 2,Positive,10,Bloomberg
+2020-01-15,ADANIPORTS major event 3,Neutral,3,Reuters
+2020-01-22,ADANIPORTS major event 4,Positive,10,Bloomberg
+2020-01-29,ADANIPORTS major event 5,Neutral,1,Economic Times
+2020-02-05,ADANIPORTS major event 6,Negative,3,Reuters
+2020-02-12,ADANIPORTS major event 7,Negative,3,Reuters
+2020-02-19,ADANIPORTS major event 8,Neutral,9,Reuters
+2020-02-26,ADANIPORTS major event 9,Positive,5,Economic Times
+2020-03-04,ADANIPORTS major event 10,Neutral,3,Reuters
+2020-03-11,ADANIPORTS major event 11,Neutral,2,Economic Times
+2020-03-18,ADANIPORTS major event 12,Neutral,3,Moneycontrol
+2020-03-25,ADANIPORTS major event 13,Negative,9,Reuters
+2020-04-01,ADANIPORTS major event 14,Negative,5,Economic Times
+2020-04-08,ADANIPORTS major event 15,Neutral,2,Reuters
+2020-04-15,ADANIPORTS major event 16,Neutral,10,Moneycontrol
+2020-04-22,ADANIPORTS major event 17,Negative,9,Economic Times
+2020-04-29,ADANIPORTS major event 18,Positive,4,Moneycontrol
+2020-05-06,ADANIPORTS major event 19,Negative,2,Bloomberg
+2020-05-13,ADANIPORTS major event 20,Negative,8,Moneycontrol
+2020-05-20,ADANIPORTS major event 21,Negative,8,Economic Times
+2020-05-27,ADANIPORTS major event 22,Neutral,1,Economic Times
+2020-06-03,ADANIPORTS major event 23,Neutral,1,Moneycontrol
+2020-06-10,ADANIPORTS major event 24,Negative,5,Bloomberg
+2020-06-17,ADANIPORTS major event 25,Neutral,4,Economic Times
+2020-06-24,ADANIPORTS major event 26,Neutral,9,Bloomberg
+2020-07-01,ADANIPORTS major event 27,Negative,8,Economic Times
+2020-07-08,ADANIPORTS major event 28,Positive,4,Reuters
+2020-07-15,ADANIPORTS major event 29,Neutral,3,Reuters
+2020-07-22,ADANIPORTS major event 30,Neutral,9,Bloomberg
+2020-07-29,ADANIPORTS major event 31,Neutral,7,Bloomberg
+2020-08-05,ADANIPORTS major event 32,Negative,1,Reuters
+2020-08-12,ADANIPORTS major event 33,Negative,7,Economic Times
+2020-08-19,ADANIPORTS major event 34,Positive,7,Reuters
+2020-08-26,ADANIPORTS major event 35,Neutral,10,Moneycontrol
+2020-09-02,ADANIPORTS major event 36,Positive,3,Reuters
+2020-09-09,ADANIPORTS major event 37,Neutral,4,Moneycontrol
+2020-09-16,ADANIPORTS major event 38,Neutral,8,Economic Times
+2020-09-23,ADANIPORTS major event 39,Negative,2,Moneycontrol
+2020-09-30,ADANIPORTS major event 40,Neutral,5,Economic Times
+2020-10-07,ADANIPORTS major event 41,Negative,2,Economic Times
+2020-10-14,ADANIPORTS major event 42,Negative,3,Economic Times
+2020-10-21,ADANIPORTS major event 43,Negative,6,Economic Times
+2020-10-28,ADANIPORTS major event 44,Positive,1,Reuters
+2020-11-04,ADANIPORTS major event 45,Positive,10,Reuters
+2020-11-11,ADANIPORTS major event 46,Positive,10,Reuters
+2020-11-18,ADANIPORTS major event 47,Positive,7,Economic Times
+2020-11-25,ADANIPORTS major event 48,Negative,6,Moneycontrol
+2020-12-02,ADANIPORTS major event 49,Neutral,3,Economic Times
+2020-12-09,ADANIPORTS major event 50,Negative,10,Reuters
+2020-12-16,ADANIPORTS major event 51,Positive,8,Moneycontrol
+2020-12-23,ADANIPORTS major event 52,Neutral,5,Reuters
+2020-12-30,ADANIPORTS major event 53,Neutral,1,Economic Times
+2021-01-06,ADANIPORTS major event 54,Negative,3,Economic Times
+2021-01-13,ADANIPORTS major event 55,Positive,6,Moneycontrol
+2021-01-20,ADANIPORTS major event 56,Positive,3,Bloomberg
+2021-01-27,ADANIPORTS major event 57,Positive,5,Moneycontrol
+2021-02-03,ADANIPORTS major event 58,Positive,7,Economic Times
+2021-02-10,ADANIPORTS major event 59,Neutral,6,Reuters
+2021-02-17,ADANIPORTS major event 60,Neutral,4,Economic Times
+2021-02-24,ADANIPORTS major event 61,Positive,3,Reuters
+2021-03-03,ADANIPORTS major event 62,Positive,8,Economic Times
+2021-03-10,ADANIPORTS major event 63,Positive,10,Moneycontrol
+2021-03-17,ADANIPORTS major event 64,Neutral,3,Bloomberg
+2021-03-24,ADANIPORTS major event 65,Negative,3,Bloomberg
+2021-03-31,ADANIPORTS major event 66,Negative,1,Moneycontrol
+2021-04-07,ADANIPORTS major event 67,Positive,7,Reuters
+2021-04-14,ADANIPORTS major event 68,Neutral,3,Bloomberg
+2021-04-21,ADANIPORTS major event 69,Positive,4,Bloomberg
+2021-04-28,ADANIPORTS major event 70,Negative,7,Moneycontrol
+2021-05-05,ADANIPORTS major event 71,Positive,7,Reuters
+2021-05-12,ADANIPORTS major event 72,Positive,9,Bloomberg
+2021-05-19,ADANIPORTS major event 73,Neutral,2,Moneycontrol
+2021-05-26,ADANIPORTS major event 74,Positive,7,Reuters
+2021-06-02,ADANIPORTS major event 75,Neutral,7,Economic Times
+2021-06-09,ADANIPORTS major event 76,Positive,5,Reuters
+2021-06-16,ADANIPORTS major event 77,Neutral,7,Bloomberg
+2021-06-23,ADANIPORTS major event 78,Negative,1,Reuters
+2021-06-30,ADANIPORTS major event 79,Neutral,9,Bloomberg
+2021-07-07,ADANIPORTS major event 80,Neutral,4,Economic Times
+2021-07-14,ADANIPORTS major event 81,Negative,1,Moneycontrol
+2021-07-21,ADANIPORTS major event 82,Neutral,1,Economic Times
+2021-07-28,ADANIPORTS major event 83,Positive,5,Reuters
+2021-08-04,ADANIPORTS major event 84,Positive,8,Reuters
+2021-08-11,ADANIPORTS major event 85,Negative,1,Bloomberg
+2021-08-18,ADANIPORTS major event 86,Negative,5,Bloomberg
+2021-08-25,ADANIPORTS major event 87,Neutral,8,Reuters
+2021-09-01,ADANIPORTS major event 88,Positive,9,Reuters
+2021-09-08,ADANIPORTS major event 89,Positive,3,Moneycontrol
+2021-09-15,ADANIPORTS major event 90,Positive,9,Moneycontrol
+2021-09-22,ADANIPORTS major event 91,Negative,4,Moneycontrol
+2021-09-29,ADANIPORTS major event 92,Neutral,8,Reuters
+2021-10-06,ADANIPORTS major event 93,Negative,10,Economic Times
+2021-10-13,ADANIPORTS major event 94,Negative,8,Economic Times
+2021-10-20,ADANIPORTS major event 95,Positive,5,Moneycontrol
+2021-10-27,ADANIPORTS major event 96,Neutral,1,Bloomberg
+2021-11-03,ADANIPORTS major event 97,Neutral,9,Reuters
+2021-11-10,ADANIPORTS major event 98,Positive,9,Moneycontrol
+2021-11-17,ADANIPORTS major event 99,Negative,4,Reuters
+2021-11-24,ADANIPORTS major event 100,Neutral,6,Bloomberg
+2021-12-01,ADANIPORTS major event 101,Neutral,7,Bloomberg
+2021-12-08,ADANIPORTS major event 102,Negative,10,Bloomberg
+2021-12-15,ADANIPORTS major event 103,Neutral,8,Economic Times
+2021-12-22,ADANIPORTS major event 104,Positive,5,Bloomberg
+2021-12-29,ADANIPORTS major event 105,Positive,5,Moneycontrol
+2022-01-05,ADANIPORTS major event 106,Positive,2,Reuters
+2022-01-12,ADANIPORTS major event 107,Negative,2,Reuters
+2022-01-19,ADANIPORTS major event 108,Neutral,8,Bloomberg
+2022-01-26,ADANIPORTS major event 109,Neutral,4,Reuters
+2022-02-02,ADANIPORTS major event 110,Neutral,3,Moneycontrol
+2022-02-09,ADANIPORTS major event 111,Negative,3,Moneycontrol
+2022-02-16,ADANIPORTS major event 112,Neutral,1,Economic Times
+2022-02-23,ADANIPORTS major event 113,Negative,7,Reuters
+2022-03-02,ADANIPORTS major event 114,Positive,4,Bloomberg
+2022-03-09,ADANIPORTS major event 115,Positive,1,Economic Times
+2022-03-16,ADANIPORTS major event 116,Neutral,6,Reuters
+2022-03-23,ADANIPORTS major event 117,Positive,2,Bloomberg
+2022-03-30,ADANIPORTS major event 118,Positive,9,Economic Times
+2022-04-06,ADANIPORTS major event 119,Negative,4,Reuters
+2022-04-13,ADANIPORTS major event 120,Neutral,5,Moneycontrol
+2022-04-20,ADANIPORTS major event 121,Neutral,8,Bloomberg
+2022-04-27,ADANIPORTS major event 122,Negative,2,Bloomberg
+2022-05-04,ADANIPORTS major event 123,Neutral,5,Bloomberg
+2022-05-11,ADANIPORTS major event 124,Negative,6,Reuters
+2022-05-18,ADANIPORTS major event 125,Negative,10,Reuters
+2022-05-25,ADANIPORTS major event 126,Negative,1,Economic Times
+2022-06-01,ADANIPORTS major event 127,Negative,8,Moneycontrol
+2022-06-08,ADANIPORTS major event 128,Positive,3,Reuters
+2022-06-15,ADANIPORTS major event 129,Positive,1,Bloomberg
+2022-06-22,ADANIPORTS major event 130,Neutral,7,Bloomberg
+2022-06-29,ADANIPORTS major event 131,Negative,10,Bloomberg
+2022-07-06,ADANIPORTS major event 132,Neutral,5,Moneycontrol
+2022-07-13,ADANIPORTS major event 133,Positive,7,Economic Times
+2022-07-20,ADANIPORTS major event 134,Neutral,5,Reuters
+2022-07-27,ADANIPORTS major event 135,Negative,6,Reuters
+2022-08-03,ADANIPORTS major event 136,Negative,6,Bloomberg
+2022-08-10,ADANIPORTS major event 137,Negative,3,Bloomberg
+2022-08-17,ADANIPORTS major event 138,Neutral,1,Economic Times
+2022-08-24,ADANIPORTS major event 139,Neutral,4,Reuters
+2022-08-31,ADANIPORTS major event 140,Negative,1,Reuters
+2022-09-07,ADANIPORTS major event 141,Positive,8,Bloomberg
+2022-09-14,ADANIPORTS major event 142,Neutral,7,Bloomberg
+2022-09-21,ADANIPORTS major event 143,Negative,9,Moneycontrol
+2022-09-28,ADANIPORTS major event 144,Negative,9,Economic Times
+2022-10-05,ADANIPORTS major event 145,Neutral,1,Reuters
+2022-10-12,ADANIPORTS major event 146,Neutral,4,Bloomberg
+2022-10-19,ADANIPORTS major event 147,Positive,3,Economic Times
+2022-10-26,ADANIPORTS major event 148,Positive,10,Moneycontrol
+2022-11-02,ADANIPORTS major event 149,Neutral,9,Moneycontrol
+2022-11-09,ADANIPORTS major event 150,Neutral,1,Economic Times
+2022-11-16,ADANIPORTS major event 151,Positive,8,Reuters
+2022-11-23,ADANIPORTS major event 152,Negative,1,Moneycontrol
+2022-11-30,ADANIPORTS major event 153,Neutral,5,Reuters
+2022-12-07,ADANIPORTS major event 154,Negative,4,Reuters
+2022-12-14,ADANIPORTS major event 155,Positive,9,Bloomberg
+2022-12-21,ADANIPORTS major event 156,Negative,3,Reuters
+2022-12-28,ADANIPORTS major event 157,Negative,1,Moneycontrol
+2023-01-04,ADANIPORTS major event 158,Positive,2,Moneycontrol
+2023-01-11,ADANIPORTS major event 159,Neutral,5,Economic Times
+2023-01-18,ADANIPORTS major event 160,Positive,5,Economic Times
+2023-01-25,ADANIPORTS major event 161,Negative,7,Moneycontrol
+2023-02-01,ADANIPORTS major event 162,Negative,4,Bloomberg
+2023-02-08,ADANIPORTS major event 163,Positive,9,Economic Times
+2023-02-15,ADANIPORTS major event 164,Negative,2,Bloomberg
+2023-02-22,ADANIPORTS major event 165,Negative,3,Economic Times
+2023-03-01,ADANIPORTS major event 166,Positive,4,Bloomberg
+2023-03-08,ADANIPORTS major event 167,Positive,9,Economic Times
+2023-03-15,ADANIPORTS major event 168,Positive,2,Bloomberg
+2023-03-22,ADANIPORTS major event 169,Positive,1,Economic Times
+2023-03-29,ADANIPORTS major event 170,Neutral,6,Bloomberg
+2023-04-05,ADANIPORTS major event 171,Negative,7,Reuters
+2023-04-12,ADANIPORTS major event 172,Neutral,6,Economic Times
+2023-04-19,ADANIPORTS major event 173,Neutral,4,Reuters
+2023-04-26,ADANIPORTS major event 174,Positive,4,Moneycontrol
+2023-05-03,ADANIPORTS major event 175,Negative,1,Bloomberg
+2023-05-10,ADANIPORTS major event 176,Neutral,4,Bloomberg
+2023-05-17,ADANIPORTS major event 177,Negative,8,Reuters
+2023-05-24,ADANIPORTS major event 178,Negative,5,Bloomberg
+2023-05-31,ADANIPORTS major event 179,Neutral,6,Bloomberg
+2023-06-07,ADANIPORTS major event 180,Positive,3,Economic Times
+2023-06-14,ADANIPORTS major event 181,Neutral,7,Moneycontrol
+2023-06-21,ADANIPORTS major event 182,Neutral,6,Moneycontrol
+2023-06-28,ADANIPORTS major event 183,Negative,1,Moneycontrol
+2023-07-05,ADANIPORTS major event 184,Positive,6,Reuters
+2023-07-12,ADANIPORTS major event 185,Neutral,1,Bloomberg
+2023-07-19,ADANIPORTS major event 186,Positive,1,Reuters
+2023-07-26,ADANIPORTS major event 187,Negative,8,Bloomberg
+2023-08-02,ADANIPORTS major event 188,Neutral,9,Reuters
+2023-08-09,ADANIPORTS major event 189,Neutral,10,Reuters
+2023-08-16,ADANIPORTS major event 190,Negative,3,Moneycontrol
+2023-08-23,ADANIPORTS major event 191,Neutral,6,Bloomberg
+2023-08-30,ADANIPORTS major event 192,Negative,5,Moneycontrol
+2023-09-06,ADANIPORTS major event 193,Positive,1,Economic Times
+2023-09-13,ADANIPORTS major event 194,Positive,5,Reuters
+2023-09-20,ADANIPORTS major event 195,Negative,6,Economic Times
+2023-09-27,ADANIPORTS major event 196,Positive,6,Reuters
+2023-10-04,ADANIPORTS major event 197,Positive,7,Economic Times
+2023-10-11,ADANIPORTS major event 198,Positive,4,Reuters
+2023-10-18,ADANIPORTS major event 199,Neutral,10,Economic Times
+2023-10-25,ADANIPORTS major event 200,Positive,1,Bloomberg
+2023-11-01,ADANIPORTS major event 201,Positive,9,Reuters
+2023-11-08,ADANIPORTS major event 202,Negative,6,Bloomberg
+2023-11-15,ADANIPORTS major event 203,Neutral,5,Moneycontrol
+2023-11-22,ADANIPORTS major event 204,Neutral,4,Bloomberg
+2023-11-29,ADANIPORTS major event 205,Neutral,2,Economic Times
+2023-12-06,ADANIPORTS major event 206,Neutral,3,Bloomberg
+2023-12-13,ADANIPORTS major event 207,Positive,1,Bloomberg
+2023-12-20,ADANIPORTS major event 208,Negative,6,Reuters
+2023-12-27,ADANIPORTS major event 209,Neutral,1,Moneycontrol
+2024-01-03,ADANIPORTS major event 210,Positive,7,Economic Times
+2024-01-10,ADANIPORTS major event 211,Neutral,4,Economic Times
+2024-01-17,ADANIPORTS major event 212,Negative,6,Bloomberg
+2024-01-24,ADANIPORTS major event 213,Neutral,2,Economic Times
+2024-01-31,ADANIPORTS major event 214,Negative,9,Economic Times
+2024-02-07,ADANIPORTS major event 215,Negative,4,Economic Times
+2024-02-14,ADANIPORTS major event 216,Positive,1,Reuters
+2024-02-21,ADANIPORTS major event 217,Negative,3,Economic Times
+2024-02-28,ADANIPORTS major event 218,Positive,8,Bloomberg
+2024-03-06,ADANIPORTS major event 219,Negative,8,Economic Times
+2024-03-13,ADANIPORTS major event 220,Negative,3,Moneycontrol
+2024-03-20,ADANIPORTS major event 221,Positive,10,Moneycontrol
+2024-03-27,ADANIPORTS major event 222,Positive,10,Moneycontrol
+2024-04-03,ADANIPORTS major event 223,Neutral,1,Moneycontrol
+2024-04-10,ADANIPORTS major event 224,Negative,3,Moneycontrol
+2024-04-17,ADANIPORTS major event 225,Positive,8,Reuters
+2024-04-24,ADANIPORTS major event 226,Negative,6,Economic Times
+2024-05-01,ADANIPORTS major event 227,Positive,7,Economic Times
+2024-05-08,ADANIPORTS major event 228,Negative,8,Reuters
+2024-05-15,ADANIPORTS major event 229,Positive,4,Economic Times
+2024-05-22,ADANIPORTS major event 230,Positive,6,Bloomberg
+2024-05-29,ADANIPORTS major event 231,Negative,6,Economic Times
+2024-06-05,ADANIPORTS major event 232,Neutral,9,Economic Times
+2024-06-12,ADANIPORTS major event 233,Neutral,2,Reuters
+2024-06-19,ADANIPORTS major event 234,Neutral,6,Bloomberg
+2024-06-26,ADANIPORTS major event 235,Negative,2,Moneycontrol
+2024-07-03,ADANIPORTS major event 236,Negative,10,Moneycontrol
+2024-07-10,ADANIPORTS major event 237,Negative,2,Economic Times
+2024-07-17,ADANIPORTS major event 238,Positive,5,Reuters
+2024-07-24,ADANIPORTS major event 239,Negative,3,Reuters
+2024-07-31,ADANIPORTS major event 240,Neutral,6,Economic Times
+2024-08-07,ADANIPORTS major event 241,Positive,1,Reuters
+2024-08-14,ADANIPORTS major event 242,Neutral,9,Bloomberg
+2024-08-21,ADANIPORTS major event 243,Neutral,3,Moneycontrol
+2024-08-28,ADANIPORTS major event 244,Positive,7,Economic Times
+2024-09-04,ADANIPORTS major event 245,Neutral,2,Economic Times
+2024-09-11,ADANIPORTS major event 246,Negative,1,Economic Times
+2024-09-18,ADANIPORTS major event 247,Negative,8,Moneycontrol
+2024-09-25,ADANIPORTS major event 248,Positive,2,Reuters
+2024-10-02,ADANIPORTS major event 249,Neutral,1,Moneycontrol
+2024-10-09,ADANIPORTS major event 250,Positive,8,Economic Times
+2024-10-16,ADANIPORTS major event 251,Neutral,7,Bloomberg
+2024-10-23,ADANIPORTS major event 252,Neutral,2,Reuters
+2024-10-30,ADANIPORTS major event 253,Negative,7,Economic Times
+2024-11-06,ADANIPORTS major event 254,Neutral,3,Moneycontrol
+2024-11-13,ADANIPORTS major event 255,Neutral,10,Bloomberg
+2024-11-20,ADANIPORTS major event 256,Positive,9,Bloomberg
+2024-11-27,ADANIPORTS major event 257,Negative,7,Reuters
+2024-12-04,ADANIPORTS major event 258,Neutral,6,Economic Times
+2024-12-11,ADANIPORTS major event 259,Neutral,3,Bloomberg
+2024-12-18,ADANIPORTS major event 260,Negative,4,Moneycontrol
+2024-12-25,ADANIPORTS major event 261,Positive,3,Economic Times
+2025-01-01,ADANIPORTS major event 262,Neutral,4,Bloomberg
+2025-01-08,ADANIPORTS major event 263,Neutral,4,Bloomberg
+2025-01-15,ADANIPORTS major event 264,Negative,5,Reuters
+2025-01-22,ADANIPORTS major event 265,Neutral,2,Moneycontrol
+2025-01-29,ADANIPORTS major event 266,Positive,7,Moneycontrol
+2025-02-05,ADANIPORTS major event 267,Positive,9,Reuters
+2025-02-12,ADANIPORTS major event 268,Negative,7,Bloomberg
+2025-02-19,ADANIPORTS major event 269,Neutral,3,Moneycontrol
+2025-02-26,ADANIPORTS major event 270,Positive,4,Moneycontrol
+2025-03-05,ADANIPORTS major event 271,Negative,5,Economic Times
+2025-03-12,ADANIPORTS major event 272,Neutral,5,Reuters
+2025-03-19,ADANIPORTS major event 273,Neutral,10,Moneycontrol
+2025-03-26,ADANIPORTS major event 274,Positive,1,Bloomberg
+2025-04-02,ADANIPORTS major event 275,Negative,8,Reuters
+2025-04-09,ADANIPORTS major event 276,Positive,5,Reuters
+2025-04-16,ADANIPORTS major event 277,Neutral,1,Moneycontrol
+2025-04-23,ADANIPORTS major event 278,Neutral,3,Bloomberg
+2025-04-30,ADANIPORTS major event 279,Neutral,10,Economic Times
+2025-05-07,ADANIPORTS major event 280,Positive,10,Reuters
+2025-05-14,ADANIPORTS major event 281,Positive,3,Reuters
+2025-05-21,ADANIPORTS major event 282,Neutral,8,Moneycontrol
+2025-05-28,ADANIPORTS major event 283,Negative,2,Bloomberg
+2025-06-04,ADANIPORTS major event 284,Neutral,2,Bloomberg
+2025-06-11,ADANIPORTS major event 285,Neutral,1,Economic Times
+2025-06-18,ADANIPORTS major event 286,Neutral,10,Reuters
+2025-06-25,ADANIPORTS major event 287,Neutral,10,Moneycontrol
+2025-07-02,ADANIPORTS major event 288,Neutral,6,Economic Times
+2025-07-09,ADANIPORTS major event 289,Neutral,3,Bloomberg
+2025-07-16,ADANIPORTS major event 290,Positive,2,Economic Times
+2025-07-23,ADANIPORTS major event 291,Negative,7,Moneycontrol
+2025-07-30,ADANIPORTS major event 292,Neutral,9,Economic Times
+2025-08-06,ADANIPORTS major event 293,Positive,5,Moneycontrol
+2025-08-13,ADANIPORTS major event 294,Positive,8,Reuters
+2025-08-20,ADANIPORTS major event 295,Neutral,1,Economic Times
+2025-08-27,ADANIPORTS major event 296,Negative,9,Bloomberg
+2025-09-03,ADANIPORTS major event 297,Neutral,10,Reuters
+2025-09-10,ADANIPORTS major event 298,Neutral,1,Bloomberg
+2025-09-17,ADANIPORTS major event 299,Positive,9,Moneycontrol
+2025-09-24,ADANIPORTS major event 300,Neutral,1,Reuters

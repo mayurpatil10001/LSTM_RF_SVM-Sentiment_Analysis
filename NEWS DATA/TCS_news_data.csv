@@ -1,0 +1,301 @@
+Date,Headline,Sentiment,Impact,Source
+2020-01-01,TCS major event 1,Positive,7,Moneycontrol
+2020-01-08,TCS major event 2,Negative,1,Bloomberg
+2020-01-15,TCS major event 3,Positive,7,Economic Times
+2020-01-22,TCS major event 4,Positive,1,Economic Times
+2020-01-29,TCS major event 5,Negative,2,Economic Times
+2020-02-05,TCS major event 6,Positive,7,Economic Times
+2020-02-12,TCS major event 7,Neutral,7,Moneycontrol
+2020-02-19,TCS major event 8,Neutral,1,Reuters
+2020-02-26,TCS major event 9,Neutral,5,Bloomberg
+2020-03-04,TCS major event 10,Positive,4,Bloomberg
+2020-03-11,TCS major event 11,Negative,3,Moneycontrol
+2020-03-18,TCS major event 12,Neutral,4,Economic Times
+2020-03-25,TCS major event 13,Neutral,10,Reuters
+2020-04-01,TCS major event 14,Positive,1,Moneycontrol
+2020-04-08,TCS major event 15,Neutral,9,Bloomberg
+2020-04-15,TCS major event 16,Neutral,2,Moneycontrol
+2020-04-22,TCS major event 17,Positive,2,Bloomberg
+2020-04-29,TCS major event 18,Negative,1,Moneycontrol
+2020-05-06,TCS major event 19,Negative,10,Moneycontrol
+2020-05-13,TCS major event 20,Negative,6,Moneycontrol
+2020-05-20,TCS major event 21,Negative,7,Moneycontrol
+2020-05-27,TCS major event 22,Positive,6,Bloomberg
+2020-06-03,TCS major event 23,Positive,10,Moneycontrol
+2020-06-10,TCS major event 24,Positive,3,Reuters
+2020-06-17,TCS major event 25,Negative,5,Bloomberg
+2020-06-24,TCS major event 26,Neutral,8,Economic Times
+2020-07-01,TCS major event 27,Neutral,5,Reuters
+2020-07-08,TCS major event 28,Negative,7,Reuters
+2020-07-15,TCS major event 29,Positive,3,Moneycontrol
+2020-07-22,TCS major event 30,Negative,10,Economic Times
+2020-07-29,TCS major event 31,Negative,8,Moneycontrol
+2020-08-05,TCS major event 32,Positive,9,Moneycontrol
+2020-08-12,TCS major event 33,Negative,5,Reuters
+2020-08-19,TCS major event 34,Positive,7,Economic Times
+2020-08-26,TCS major event 35,Positive,8,Reuters
+2020-09-02,TCS major event 36,Positive,8,Bloomberg
+2020-09-09,TCS major event 37,Positive,1,Bloomberg
+2020-09-16,TCS major event 38,Negative,8,Economic Times
+2020-09-23,TCS major event 39,Positive,4,Moneycontrol
+2020-09-30,TCS major event 40,Positive,10,Economic Times
+2020-10-07,TCS major event 41,Neutral,4,Bloomberg
+2020-10-14,TCS major event 42,Negative,4,Reuters
+2020-10-21,TCS major event 43,Neutral,7,Bloomberg
+2020-10-28,TCS major event 44,Neutral,5,Reuters
+2020-11-04,TCS major event 45,Negative,10,Bloomberg
+2020-11-11,TCS major event 46,Positive,1,Bloomberg
+2020-11-18,TCS major event 47,Neutral,1,Bloomberg
+2020-11-25,TCS major event 48,Neutral,9,Reuters
+2020-12-02,TCS major event 49,Neutral,10,Moneycontrol
+2020-12-09,TCS major event 50,Negative,5,Moneycontrol
+2020-12-16,TCS major event 51,Neutral,5,Reuters
+2020-12-23,TCS major event 52,Positive,8,Moneycontrol
+2020-12-30,TCS major event 53,Neutral,8,Bloomberg
+2021-01-06,TCS major event 54,Negative,4,Moneycontrol
+2021-01-13,TCS major event 55,Negative,5,Economic Times
+2021-01-20,TCS major event 56,Neutral,2,Moneycontrol
+2021-01-27,TCS major event 57,Negative,8,Reuters
+2021-02-03,TCS major event 58,Positive,4,Bloomberg
+2021-02-10,TCS major event 59,Negative,5,Economic Times
+2021-02-17,TCS major event 60,Positive,7,Bloomberg
+2021-02-24,TCS major event 61,Positive,6,Reuters
+2021-03-03,TCS major event 62,Neutral,7,Reuters
+2021-03-10,TCS major event 63,Positive,5,Reuters
+2021-03-17,TCS major event 64,Negative,3,Reuters
+2021-03-24,TCS major event 65,Negative,3,Moneycontrol
+2021-03-31,TCS major event 66,Negative,4,Reuters
+2021-04-07,TCS major event 67,Negative,2,Economic Times
+2021-04-14,TCS major event 68,Positive,3,Reuters
+2021-04-21,TCS major event 69,Neutral,1,Economic Times
+2021-04-28,TCS major event 70,Positive,6,Moneycontrol
+2021-05-05,TCS major event 71,Neutral,5,Moneycontrol
+2021-05-12,TCS major event 72,Negative,5,Moneycontrol
+2021-05-19,TCS major event 73,Neutral,3,Reuters
+2021-05-26,TCS major event 74,Negative,1,Moneycontrol
+2021-06-02,TCS major event 75,Negative,6,Bloomberg
+2021-06-09,TCS major event 76,Negative,10,Bloomberg
+2021-06-16,TCS major event 77,Positive,1,Bloomberg
+2021-06-23,TCS major event 78,Negative,7,Bloomberg
+2021-06-30,TCS major event 79,Neutral,8,Economic Times
+2021-07-07,TCS major event 80,Positive,7,Economic Times
+2021-07-14,TCS major event 81,Positive,5,Reuters
+2021-07-21,TCS major event 82,Neutral,5,Economic Times
+2021-07-28,TCS major event 83,Positive,10,Moneycontrol
+2021-08-04,TCS major event 84,Neutral,5,Reuters
+2021-08-11,TCS major event 85,Positive,8,Economic Times
+2021-08-18,TCS major event 86,Positive,2,Economic Times
+2021-08-25,TCS major event 87,Neutral,7,Moneycontrol
+2021-09-01,TCS major event 88,Positive,4,Reuters
+2021-09-08,TCS major event 89,Positive,6,Moneycontrol
+2021-09-15,TCS major event 90,Neutral,1,Economic Times
+2021-09-22,TCS major event 91,Neutral,2,Economic Times
+2021-09-29,TCS major event 92,Neutral,5,Bloomberg
+2021-10-06,TCS major event 93,Neutral,5,Reuters
+2021-10-13,TCS major event 94,Neutral,3,Economic Times
+2021-10-20,TCS major event 95,Negative,4,Economic Times
+2021-10-27,TCS major event 96,Negative,10,Bloomberg
+2021-11-03,TCS major event 97,Neutral,7,Moneycontrol
+2021-11-10,TCS major event 98,Positive,5,Moneycontrol
+2021-11-17,TCS major event 99,Neutral,1,Economic Times
+2021-11-24,TCS major event 100,Negative,9,Economic Times
+2021-12-01,TCS major event 101,Neutral,6,Reuters
+2021-12-08,TCS major event 102,Negative,9,Economic Times
+2021-12-15,TCS major event 103,Negative,3,Economic Times
+2021-12-22,TCS major event 104,Neutral,2,Reuters
+2021-12-29,TCS major event 105,Positive,1,Economic Times
+2022-01-05,TCS major event 106,Neutral,6,Reuters
+2022-01-12,TCS major event 107,Positive,7,Economic Times
+2022-01-19,TCS major event 108,Positive,8,Economic Times
+2022-01-26,TCS major event 109,Neutral,4,Bloomberg
+2022-02-02,TCS major event 110,Negative,9,Reuters
+2022-02-09,TCS major event 111,Negative,3,Moneycontrol
+2022-02-16,TCS major event 112,Neutral,1,Bloomberg
+2022-02-23,TCS major event 113,Neutral,1,Economic Times
+2022-03-02,TCS major event 114,Negative,9,Bloomberg
+2022-03-09,TCS major event 115,Negative,8,Bloomberg
+2022-03-16,TCS major event 116,Negative,5,Bloomberg
+2022-03-23,TCS major event 117,Positive,3,Moneycontrol
+2022-03-30,TCS major event 118,Negative,6,Moneycontrol
+2022-04-06,TCS major event 119,Positive,1,Moneycontrol
+2022-04-13,TCS major event 120,Positive,5,Moneycontrol
+2022-04-20,TCS major event 121,Negative,2,Bloomberg
+2022-04-27,TCS major event 122,Negative,10,Reuters
+2022-05-04,TCS major event 123,Positive,10,Moneycontrol
+2022-05-11,TCS major event 124,Positive,2,Reuters
+2022-05-18,TCS major event 125,Neutral,6,Bloomberg
+2022-05-25,TCS major event 126,Neutral,9,Moneycontrol
+2022-06-01,TCS major event 127,Negative,3,Reuters
+2022-06-08,TCS major event 128,Negative,7,Moneycontrol
+2022-06-15,TCS major event 129,Positive,2,Bloomberg
+2022-06-22,TCS major event 130,Negative,8,Economic Times
+2022-06-29,TCS major event 131,Positive,9,Economic Times
+2022-07-06,TCS major event 132,Positive,5,Moneycontrol
+2022-07-13,TCS major event 133,Positive,6,Bloomberg
+2022-07-20,TCS major event 134,Negative,5,Reuters
+2022-07-27,TCS major event 135,Positive,2,Moneycontrol
+2022-08-03,TCS major event 136,Negative,8,Reuters
+2022-08-10,TCS major event 137,Neutral,9,Bloomberg
+2022-08-17,TCS major event 138,Negative,5,Bloomberg
+2022-08-24,TCS major event 139,Positive,7,Moneycontrol
+2022-08-31,TCS major event 140,Negative,7,Economic Times
+2022-09-07,TCS major event 141,Negative,7,Moneycontrol
+2022-09-14,TCS major event 142,Negative,8,Bloomberg
+2022-09-21,TCS major event 143,Negative,1,Moneycontrol
+2022-09-28,TCS major event 144,Neutral,8,Bloomberg
+2022-10-05,TCS major event 145,Neutral,1,Reuters
+2022-10-12,TCS major event 146,Positive,4,Economic Times
+2022-10-19,TCS major event 147,Negative,8,Economic Times
+2022-10-26,TCS major event 148,Positive,5,Reuters
+2022-11-02,TCS major event 149,Neutral,9,Bloomberg
+2022-11-09,TCS major event 150,Positive,4,Economic Times
+2022-11-16,TCS major event 151,Negative,4,Economic Times
+2022-11-23,TCS major event 152,Neutral,8,Bloomberg
+2022-11-30,TCS major event 153,Negative,1,Moneycontrol
+2022-12-07,TCS major event 154,Neutral,1,Reuters
+2022-12-14,TCS major event 155,Positive,7,Moneycontrol
+2022-12-21,TCS major event 156,Positive,7,Economic Times
+2022-12-28,TCS major event 157,Positive,2,Bloomberg
+2023-01-04,TCS major event 158,Neutral,4,Moneycontrol
+2023-01-11,TCS major event 159,Positive,1,Moneycontrol
+2023-01-18,TCS major event 160,Negative,10,Moneycontrol
+2023-01-25,TCS major event 161,Neutral,4,Moneycontrol
+2023-02-01,TCS major event 162,Neutral,4,Bloomberg
+2023-02-08,TCS major event 163,Neutral,4,Moneycontrol
+2023-02-15,TCS major event 164,Positive,10,Reuters
+2023-02-22,TCS major event 165,Neutral,7,Reuters
+2023-03-01,TCS major event 166,Neutral,1,Bloomberg
+2023-03-08,TCS major event 167,Positive,2,Economic Times
+2023-03-15,TCS major event 168,Negative,10,Economic Times
+2023-03-22,TCS major event 169,Negative,10,Moneycontrol
+2023-03-29,TCS major event 170,Positive,1,Economic Times
+2023-04-05,TCS major event 171,Negative,9,Economic Times
+2023-04-12,TCS major event 172,Positive,3,Moneycontrol
+2023-04-19,TCS major event 173,Neutral,5,Bloomberg
+2023-04-26,TCS major event 174,Positive,7,Bloomberg
+2023-05-03,TCS major event 175,Positive,2,Reuters
+2023-05-10,TCS major event 176,Neutral,2,Bloomberg
+2023-05-17,TCS major event 177,Neutral,10,Moneycontrol
+2023-05-24,TCS major event 178,Neutral,9,Reuters
+2023-05-31,TCS major event 179,Neutral,8,Economic Times
+2023-06-07,TCS major event 180,Neutral,10,Bloomberg
+2023-06-14,TCS major event 181,Neutral,3,Economic Times
+2023-06-21,TCS major event 182,Positive,3,Reuters
+2023-06-28,TCS major event 183,Positive,7,Bloomberg
+2023-07-05,TCS major event 184,Negative,7,Bloomberg
+2023-07-12,TCS major event 185,Neutral,4,Economic Times
+2023-07-19,TCS major event 186,Negative,10,Economic Times
+2023-07-26,TCS major event 187,Neutral,3,Bloomberg
+2023-08-02,TCS major event 188,Negative,6,Bloomberg
+2023-08-09,TCS major event 189,Positive,5,Moneycontrol
+2023-08-16,TCS major event 190,Positive,3,Reuters
+2023-08-23,TCS major event 191,Neutral,4,Economic Times
+2023-08-30,TCS major event 192,Negative,7,Reuters
+2023-09-06,TCS major event 193,Negative,3,Economic Times
+2023-09-13,TCS major event 194,Negative,1,Economic Times
+2023-09-20,TCS major event 195,Negative,4,Reuters
+2023-09-27,TCS major event 196,Positive,5,Bloomberg
+2023-10-04,TCS major event 197,Positive,9,Bloomberg
+2023-10-11,TCS major event 198,Neutral,5,Economic Times
+2023-10-18,TCS major event 199,Negative,2,Bloomberg
+2023-10-25,TCS major event 200,Positive,1,Reuters
+2023-11-01,TCS major event 201,Negative,1,Bloomberg
+2023-11-08,TCS major event 202,Positive,10,Reuters
+2023-11-15,TCS major event 203,Neutral,1,Economic Times
+2023-11-22,TCS major event 204,Positive,7,Moneycontrol
+2023-11-29,TCS major event 205,Negative,4,Reuters
+2023-12-06,TCS major event 206,Negative,6,Bloomberg
+2023-12-13,TCS major event 207,Neutral,7,Reuters
+2023-12-20,TCS major event 208,Negative,9,Economic Times
+2023-12-27,TCS major event 209,Positive,2,Economic Times
+2024-01-03,TCS major event 210,Neutral,10,Economic Times
+2024-01-10,TCS major event 211,Neutral,8,Bloomberg
+2024-01-17,TCS major event 212,Negative,9,Moneycontrol
+2024-01-24,TCS major event 213,Neutral,8,Bloomberg
+2024-01-31,TCS major event 214,Negative,2,Bloomberg
+2024-02-07,TCS major event 215,Negative,10,Reuters
+2024-02-14,TCS major event 216,Positive,2,Economic Times
+2024-02-21,TCS major event 217,Negative,7,Bloomberg
+2024-02-28,TCS major event 218,Positive,2,Economic Times
+2024-03-06,TCS major event 219,Neutral,5,Economic Times
+2024-03-13,TCS major event 220,Negative,9,Reuters
+2024-03-20,TCS major event 221,Positive,4,Economic Times
+2024-03-27,TCS major event 222,Negative,9,Moneycontrol
+2024-04-03,TCS major event 223,Neutral,1,Moneycontrol
+2024-04-10,TCS major event 224,Positive,1,Economic Times
+2024-04-17,TCS major event 225,Positive,10,Bloomberg
+2024-04-24,TCS major event 226,Negative,5,Moneycontrol
+2024-05-01,TCS major event 227,Positive,4,Moneycontrol
+2024-05-08,TCS major event 228,Negative,7,Economic Times
+2024-05-15,TCS major event 229,Negative,9,Bloomberg
+2024-05-22,TCS major event 230,Negative,1,Bloomberg
+2024-05-29,TCS major event 231,Neutral,10,Moneycontrol
+2024-06-05,TCS major event 232,Negative,5,Bloomberg
+2024-06-12,TCS major event 233,Negative,9,Moneycontrol
+2024-06-19,TCS major event 234,Positive,7,Moneycontrol
+2024-06-26,TCS major event 235,Neutral,9,Bloomberg
+2024-07-03,TCS major event 236,Positive,2,Bloomberg
+2024-07-10,TCS major event 237,Negative,10,Economic Times
+2024-07-17,TCS major event 238,Positive,4,Economic Times
+2024-07-24,TCS major event 239,Negative,4,Reuters
+2024-07-31,TCS major event 240,Positive,4,Economic Times
+2024-08-07,TCS major event 241,Neutral,7,Reuters
+2024-08-14,TCS major event 242,Neutral,9,Economic Times
+2024-08-21,TCS major event 243,Neutral,1,Moneycontrol
+2024-08-28,TCS major event 244,Positive,1,Moneycontrol
+2024-09-04,TCS major event 245,Positive,9,Economic Times
+2024-09-11,TCS major event 246,Negative,5,Bloomberg
+2024-09-18,TCS major event 247,Neutral,5,Reuters
+2024-09-25,TCS major event 248,Positive,2,Economic Times
+2024-10-02,TCS major event 249,Negative,7,Economic Times
+2024-10-09,TCS major event 250,Negative,6,Reuters
+2024-10-16,TCS major event 251,Positive,5,Economic Times
+2024-10-23,TCS major event 252,Negative,7,Reuters
+2024-10-30,TCS major event 253,Negative,3,Moneycontrol
+2024-11-06,TCS major event 254,Positive,5,Bloomberg
+2024-11-13,TCS major event 255,Negative,1,Bloomberg
+2024-11-20,TCS major event 256,Positive,9,Moneycontrol
+2024-11-27,TCS major event 257,Negative,6,Economic Times
+2024-12-04,TCS major event 258,Neutral,8,Moneycontrol
+2024-12-11,TCS major event 259,Neutral,8,Bloomberg
+2024-12-18,TCS major event 260,Neutral,8,Moneycontrol
+2024-12-25,TCS major event 261,Positive,4,Reuters
+2025-01-01,TCS major event 262,Positive,4,Economic Times
+2025-01-08,TCS major event 263,Positive,5,Economic Times
+2025-01-15,TCS major event 264,Neutral,8,Bloomberg
+2025-01-22,TCS major event 265,Negative,10,Reuters
+2025-01-29,TCS major event 266,Negative,5,Economic Times
+2025-02-05,TCS major event 267,Negative,3,Moneycontrol
+2025-02-12,TCS major event 268,Negative,8,Bloomberg
+2025-02-19,TCS major event 269,Neutral,8,Economic Times
+2025-02-26,TCS major event 270,Positive,2,Moneycontrol
+2025-03-05,TCS major event 271,Neutral,7,Moneycontrol
+2025-03-12,TCS major event 272,Neutral,8,Moneycontrol
+2025-03-19,TCS major event 273,Negative,7,Moneycontrol
+2025-03-26,TCS major event 274,Positive,5,Reuters
+2025-04-02,TCS major event 275,Neutral,5,Economic Times
+2025-04-09,TCS major event 276,Positive,5,Bloomberg
+2025-04-16,TCS major event 277,Positive,3,Economic Times
+2025-04-23,TCS major event 278,Negative,5,Bloomberg
+2025-04-30,TCS major event 279,Neutral,1,Bloomberg
+2025-05-07,TCS major event 280,Positive,5,Moneycontrol
+2025-05-14,TCS major event 281,Negative,4,Bloomberg
+2025-05-21,TCS major event 282,Negative,10,Economic Times
+2025-05-28,TCS major event 283,Negative,2,Reuters
+2025-06-04,TCS major event 284,Neutral,10,Economic Times
+2025-06-11,TCS major event 285,Neutral,10,Moneycontrol
+2025-06-18,TCS major event 286,Negative,4,Reuters
+2025-06-25,TCS major event 287,Negative,3,Reuters
+2025-07-02,TCS major event 288,Neutral,9,Moneycontrol
+2025-07-09,TCS major event 289,Positive,10,Reuters
+2025-07-16,TCS major event 290,Neutral,3,Bloomberg
+2025-07-23,TCS major event 291,Negative,1,Economic Times
+2025-07-30,TCS major event 292,Positive,8,Bloomberg
+2025-08-06,TCS major event 293,Negative,10,Moneycontrol
+2025-08-13,TCS major event 294,Neutral,3,Moneycontrol
+2025-08-20,TCS major event 295,Neutral,8,Economic Times
+2025-08-27,TCS major event 296,Negative,3,Economic Times
+2025-09-03,TCS major event 297,Negative,8,Bloomberg
+2025-09-10,TCS major event 298,Neutral,1,Reuters
+2025-09-17,TCS major event 299,Positive,4,Moneycontrol
+2025-09-24,TCS major event 300,Positive,10,Moneycontrol

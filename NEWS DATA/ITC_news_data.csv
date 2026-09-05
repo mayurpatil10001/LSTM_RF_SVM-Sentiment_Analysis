@@ -1,0 +1,301 @@
+Date,Headline,Sentiment,Impact,Source
+2020-01-01,ITC major event 1,Negative,6,Economic Times
+2020-01-08,ITC major event 2,Neutral,4,Economic Times
+2020-01-15,ITC major event 3,Neutral,9,Moneycontrol
+2020-01-22,ITC major event 4,Positive,6,Moneycontrol
+2020-01-29,ITC major event 5,Neutral,8,Moneycontrol
+2020-02-05,ITC major event 6,Positive,1,Moneycontrol
+2020-02-12,ITC major event 7,Neutral,5,Moneycontrol
+2020-02-19,ITC major event 8,Positive,6,Reuters
+2020-02-26,ITC major event 9,Neutral,1,Economic Times
+2020-03-04,ITC major event 10,Negative,5,Bloomberg
+2020-03-11,ITC major event 11,Positive,2,Economic Times
+2020-03-18,ITC major event 12,Neutral,1,Moneycontrol
+2020-03-25,ITC major event 13,Positive,7,Bloomberg
+2020-04-01,ITC major event 14,Neutral,7,Moneycontrol
+2020-04-08,ITC major event 15,Neutral,1,Moneycontrol
+2020-04-15,ITC major event 16,Negative,9,Reuters
+2020-04-22,ITC major event 17,Negative,7,Economic Times
+2020-04-29,ITC major event 18,Neutral,9,Reuters
+2020-05-06,ITC major event 19,Negative,2,Reuters
+2020-05-13,ITC major event 20,Positive,7,Economic Times
+2020-05-20,ITC major event 21,Negative,6,Bloomberg
+2020-05-27,ITC major event 22,Neutral,4,Economic Times
+2020-06-03,ITC major event 23,Neutral,6,Bloomberg
+2020-06-10,ITC major event 24,Negative,7,Moneycontrol
+2020-06-17,ITC major event 25,Negative,5,Economic Times
+2020-06-24,ITC major event 26,Positive,10,Moneycontrol
+2020-07-01,ITC major event 27,Neutral,1,Moneycontrol
+2020-07-08,ITC major event 28,Positive,2,Reuters
+2020-07-15,ITC major event 29,Neutral,7,Bloomberg
+2020-07-22,ITC major event 30,Neutral,6,Bloomberg
+2020-07-29,ITC major event 31,Negative,10,Moneycontrol
+2020-08-05,ITC major event 32,Positive,6,Bloomberg
+2020-08-12,ITC major event 33,Negative,2,Reuters
+2020-08-19,ITC major event 34,Negative,4,Reuters
+2020-08-26,ITC major event 35,Negative,8,Bloomberg
+2020-09-02,ITC major event 36,Neutral,7,Bloomberg
+2020-09-09,ITC major event 37,Positive,1,Reuters
+2020-09-16,ITC major event 38,Negative,6,Moneycontrol
+2020-09-23,ITC major event 39,Negative,4,Reuters
+2020-09-30,ITC major event 40,Neutral,9,Economic Times
+2020-10-07,ITC major event 41,Positive,1,Economic Times
+2020-10-14,ITC major event 42,Neutral,4,Bloomberg
+2020-10-21,ITC major event 43,Neutral,2,Bloomberg
+2020-10-28,ITC major event 44,Neutral,8,Reuters
+2020-11-04,ITC major event 45,Neutral,3,Bloomberg
+2020-11-11,ITC major event 46,Positive,1,Bloomberg
+2020-11-18,ITC major event 47,Neutral,6,Economic Times
+2020-11-25,ITC major event 48,Positive,8,Moneycontrol
+2020-12-02,ITC major event 49,Positive,8,Bloomberg
+2020-12-09,ITC major event 50,Positive,2,Moneycontrol
+2020-12-16,ITC major event 51,Negative,10,Bloomberg
+2020-12-23,ITC major event 52,Positive,7,Economic Times
+2020-12-30,ITC major event 53,Neutral,4,Moneycontrol
+2021-01-06,ITC major event 54,Positive,10,Economic Times
+2021-01-13,ITC major event 55,Neutral,5,Bloomberg
+2021-01-20,ITC major event 56,Positive,2,Bloomberg
+2021-01-27,ITC major event 57,Neutral,1,Bloomberg
+2021-02-03,ITC major event 58,Positive,2,Bloomberg
+2021-02-10,ITC major event 59,Positive,5,Bloomberg
+2021-02-17,ITC major event 60,Positive,9,Reuters
+2021-02-24,ITC major event 61,Negative,3,Moneycontrol
+2021-03-03,ITC major event 62,Neutral,1,Reuters
+2021-03-10,ITC major event 63,Neutral,6,Reuters
+2021-03-17,ITC major event 64,Positive,5,Bloomberg
+2021-03-24,ITC major event 65,Positive,6,Moneycontrol
+2021-03-31,ITC major event 66,Positive,1,Bloomberg
+2021-04-07,ITC major event 67,Positive,8,Moneycontrol
+2021-04-14,ITC major event 68,Positive,6,Reuters
+2021-04-21,ITC major event 69,Neutral,2,Reuters
+2021-04-28,ITC major event 70,Neutral,2,Bloomberg
+2021-05-05,ITC major event 71,Negative,6,Reuters
+2021-05-12,ITC major event 72,Positive,3,Reuters
+2021-05-19,ITC major event 73,Neutral,4,Bloomberg
+2021-05-26,ITC major event 74,Positive,7,Economic Times
+2021-06-02,ITC major event 75,Positive,1,Economic Times
+2021-06-09,ITC major event 76,Neutral,4,Reuters
+2021-06-16,ITC major event 77,Neutral,9,Reuters
+2021-06-23,ITC major event 78,Negative,8,Reuters
+2021-06-30,ITC major event 79,Negative,2,Economic Times
+2021-07-07,ITC major event 80,Neutral,3,Moneycontrol
+2021-07-14,ITC major event 81,Neutral,8,Bloomberg
+2021-07-21,ITC major event 82,Positive,2,Reuters
+2021-07-28,ITC major event 83,Negative,6,Economic Times
+2021-08-04,ITC major event 84,Neutral,4,Moneycontrol
+2021-08-11,ITC major event 85,Negative,5,Economic Times
+2021-08-18,ITC major event 86,Neutral,4,Economic Times
+2021-08-25,ITC major event 87,Negative,4,Reuters
+2021-09-01,ITC major event 88,Neutral,3,Moneycontrol
+2021-09-08,ITC major event 89,Negative,4,Reuters
+2021-09-15,ITC major event 90,Negative,1,Reuters
+2021-09-22,ITC major event 91,Neutral,2,Bloomberg
+2021-09-29,ITC major event 92,Negative,9,Economic Times
+2021-10-06,ITC major event 93,Positive,5,Moneycontrol
+2021-10-13,ITC major event 94,Positive,8,Reuters
+2021-10-20,ITC major event 95,Positive,8,Economic Times
+2021-10-27,ITC major event 96,Neutral,8,Bloomberg
+2021-11-03,ITC major event 97,Negative,2,Economic Times
+2021-11-10,ITC major event 98,Negative,4,Reuters
+2021-11-17,ITC major event 99,Neutral,7,Economic Times
+2021-11-24,ITC major event 100,Neutral,10,Moneycontrol
+2021-12-01,ITC major event 101,Positive,4,Moneycontrol
+2021-12-08,ITC major event 102,Positive,8,Moneycontrol
+2021-12-15,ITC major event 103,Neutral,5,Economic Times
+2021-12-22,ITC major event 104,Negative,8,Economic Times
+2021-12-29,ITC major event 105,Positive,8,Bloomberg
+2022-01-05,ITC major event 106,Negative,7,Moneycontrol
+2022-01-12,ITC major event 107,Neutral,4,Bloomberg
+2022-01-19,ITC major event 108,Positive,3,Moneycontrol
+2022-01-26,ITC major event 109,Positive,2,Reuters
+2022-02-02,ITC major event 110,Neutral,1,Moneycontrol
+2022-02-09,ITC major event 111,Neutral,2,Bloomberg
+2022-02-16,ITC major event 112,Negative,3,Moneycontrol
+2022-02-23,ITC major event 113,Neutral,6,Reuters
+2022-03-02,ITC major event 114,Positive,1,Moneycontrol
+2022-03-09,ITC major event 115,Positive,1,Economic Times
+2022-03-16,ITC major event 116,Neutral,3,Bloomberg
+2022-03-23,ITC major event 117,Negative,6,Bloomberg
+2022-03-30,ITC major event 118,Neutral,9,Economic Times
+2022-04-06,ITC major event 119,Negative,2,Reuters
+2022-04-13,ITC major event 120,Neutral,4,Moneycontrol
+2022-04-20,ITC major event 121,Negative,6,Reuters
+2022-04-27,ITC major event 122,Negative,10,Reuters
+2022-05-04,ITC major event 123,Positive,3,Reuters
+2022-05-11,ITC major event 124,Neutral,3,Moneycontrol
+2022-05-18,ITC major event 125,Neutral,5,Economic Times
+2022-05-25,ITC major event 126,Positive,7,Bloomberg
+2022-06-01,ITC major event 127,Positive,7,Bloomberg
+2022-06-08,ITC major event 128,Positive,5,Reuters
+2022-06-15,ITC major event 129,Negative,2,Reuters
+2022-06-22,ITC major event 130,Positive,7,Reuters
+2022-06-29,ITC major event 131,Positive,10,Bloomberg
+2022-07-06,ITC major event 132,Positive,8,Moneycontrol
+2022-07-13,ITC major event 133,Neutral,7,Moneycontrol
+2022-07-20,ITC major event 134,Negative,4,Bloomberg
+2022-07-27,ITC major event 135,Positive,7,Moneycontrol
+2022-08-03,ITC major event 136,Neutral,8,Moneycontrol
+2022-08-10,ITC major event 137,Negative,3,Economic Times
+2022-08-17,ITC major event 138,Neutral,5,Economic Times
+2022-08-24,ITC major event 139,Neutral,5,Reuters
+2022-08-31,ITC major event 140,Neutral,5,Moneycontrol
+2022-09-07,ITC major event 141,Negative,1,Moneycontrol
+2022-09-14,ITC major event 142,Negative,1,Economic Times
+2022-09-21,ITC major event 143,Positive,7,Reuters
+2022-09-28,ITC major event 144,Neutral,10,Economic Times
+2022-10-05,ITC major event 145,Positive,3,Reuters
+2022-10-12,ITC major event 146,Neutral,2,Economic Times
+2022-10-19,ITC major event 147,Negative,9,Bloomberg
+2022-10-26,ITC major event 148,Negative,2,Economic Times
+2022-11-02,ITC major event 149,Positive,3,Economic Times
+2022-11-09,ITC major event 150,Neutral,8,Moneycontrol
+2022-11-16,ITC major event 151,Negative,2,Moneycontrol
+2022-11-23,ITC major event 152,Negative,10,Reuters
+2022-11-30,ITC major event 153,Positive,8,Economic Times
+2022-12-07,ITC major event 154,Positive,7,Economic Times
+2022-12-14,ITC major event 155,Neutral,3,Reuters
+2022-12-21,ITC major event 156,Neutral,8,Bloomberg
+2022-12-28,ITC major event 157,Positive,7,Economic Times
+2023-01-04,ITC major event 158,Neutral,8,Economic Times
+2023-01-11,ITC major event 159,Positive,10,Reuters
+2023-01-18,ITC major event 160,Negative,6,Reuters
+2023-01-25,ITC major event 161,Positive,8,Economic Times
+2023-02-01,ITC major event 162,Positive,1,Economic Times
+2023-02-08,ITC major event 163,Negative,10,Moneycontrol
+2023-02-15,ITC major event 164,Negative,3,Economic Times
+2023-02-22,ITC major event 165,Neutral,1,Reuters
+2023-03-01,ITC major event 166,Negative,6,Economic Times
+2023-03-08,ITC major event 167,Negative,4,Economic Times
+2023-03-15,ITC major event 168,Positive,4,Bloomberg
+2023-03-22,ITC major event 169,Negative,4,Moneycontrol
+2023-03-29,ITC major event 170,Positive,10,Economic Times
+2023-04-05,ITC major event 171,Negative,4,Reuters
+2023-04-12,ITC major event 172,Positive,10,Economic Times
+2023-04-19,ITC major event 173,Neutral,9,Bloomberg
+2023-04-26,ITC major event 174,Negative,4,Moneycontrol
+2023-05-03,ITC major event 175,Negative,10,Moneycontrol
+2023-05-10,ITC major event 176,Positive,3,Economic Times
+2023-05-17,ITC major event 177,Neutral,3,Reuters
+2023-05-24,ITC major event 178,Negative,4,Bloomberg
+2023-05-31,ITC major event 179,Positive,7,Economic Times
+2023-06-07,ITC major event 180,Negative,4,Bloomberg
+2023-06-14,ITC major event 181,Positive,4,Reuters
+2023-06-21,ITC major event 182,Neutral,2,Economic Times
+2023-06-28,ITC major event 183,Negative,6,Economic Times
+2023-07-05,ITC major event 184,Neutral,1,Bloomberg
+2023-07-12,ITC major event 185,Negative,7,Reuters
+2023-07-19,ITC major event 186,Positive,3,Economic Times
+2023-07-26,ITC major event 187,Positive,6,Moneycontrol
+2023-08-02,ITC major event 188,Positive,8,Economic Times
+2023-08-09,ITC major event 189,Neutral,1,Moneycontrol
+2023-08-16,ITC major event 190,Positive,10,Economic Times
+2023-08-23,ITC major event 191,Negative,10,Moneycontrol
+2023-08-30,ITC major event 192,Positive,9,Bloomberg
+2023-09-06,ITC major event 193,Neutral,6,Moneycontrol
+2023-09-13,ITC major event 194,Positive,6,Reuters
+2023-09-20,ITC major event 195,Neutral,8,Economic Times
+2023-09-27,ITC major event 196,Positive,6,Moneycontrol
+2023-10-04,ITC major event 197,Neutral,1,Economic Times
+2023-10-11,ITC major event 198,Negative,5,Reuters
+2023-10-18,ITC major event 199,Neutral,10,Reuters
+2023-10-25,ITC major event 200,Neutral,5,Moneycontrol
+2023-11-01,ITC major event 201,Positive,2,Bloomberg
+2023-11-08,ITC major event 202,Positive,5,Economic Times
+2023-11-15,ITC major event 203,Negative,6,Economic Times
+2023-11-22,ITC major event 204,Neutral,7,Bloomberg
+2023-11-29,ITC major event 205,Positive,9,Bloomberg
+2023-12-06,ITC major event 206,Negative,1,Economic Times
+2023-12-13,ITC major event 207,Positive,8,Reuters
+2023-12-20,ITC major event 208,Positive,7,Bloomberg
+2023-12-27,ITC major event 209,Positive,9,Moneycontrol
+2024-01-03,ITC major event 210,Positive,5,Bloomberg
+2024-01-10,ITC major event 211,Positive,8,Economic Times
+2024-01-17,ITC major event 212,Neutral,8,Bloomberg
+2024-01-24,ITC major event 213,Positive,6,Bloomberg
+2024-01-31,ITC major event 214,Positive,2,Economic Times
+2024-02-07,ITC major event 215,Neutral,10,Reuters
+2024-02-14,ITC major event 216,Neutral,6,Moneycontrol
+2024-02-21,ITC major event 217,Negative,7,Reuters
+2024-02-28,ITC major event 218,Negative,1,Economic Times
+2024-03-06,ITC major event 219,Neutral,10,Bloomberg
+2024-03-13,ITC major event 220,Negative,5,Reuters
+2024-03-20,ITC major event 221,Positive,3,Reuters
+2024-03-27,ITC major event 222,Neutral,9,Moneycontrol
+2024-04-03,ITC major event 223,Positive,5,Reuters
+2024-04-10,ITC major event 224,Positive,5,Bloomberg
+2024-04-17,ITC major event 225,Neutral,10,Bloomberg
+2024-04-24,ITC major event 226,Negative,5,Bloomberg
+2024-05-01,ITC major event 227,Neutral,5,Economic Times
+2024-05-08,ITC major event 228,Neutral,9,Moneycontrol
+2024-05-15,ITC major event 229,Neutral,8,Economic Times
+2024-05-22,ITC major event 230,Positive,1,Bloomberg
+2024-05-29,ITC major event 231,Neutral,5,Reuters
+2024-06-05,ITC major event 232,Neutral,7,Reuters
+2024-06-12,ITC major event 233,Neutral,1,Reuters
+2024-06-19,ITC major event 234,Positive,6,Moneycontrol
+2024-06-26,ITC major event 235,Negative,10,Bloomberg
+2024-07-03,ITC major event 236,Positive,8,Moneycontrol
+2024-07-10,ITC major event 237,Negative,6,Bloomberg
+2024-07-17,ITC major event 238,Negative,9,Bloomberg
+2024-07-24,ITC major event 239,Positive,5,Reuters
+2024-07-31,ITC major event 240,Positive,5,Reuters
+2024-08-07,ITC major event 241,Negative,6,Bloomberg
+2024-08-14,ITC major event 242,Neutral,4,Economic Times
+2024-08-21,ITC major event 243,Negative,2,Reuters
+2024-08-28,ITC major event 244,Neutral,3,Bloomberg
+2024-09-04,ITC major event 245,Positive,5,Bloomberg
+2024-09-11,ITC major event 246,Neutral,7,Bloomberg
+2024-09-18,ITC major event 247,Neutral,3,Moneycontrol
+2024-09-25,ITC major event 248,Positive,10,Moneycontrol
+2024-10-02,ITC major event 249,Neutral,10,Bloomberg
+2024-10-09,ITC major event 250,Negative,3,Reuters
+2024-10-16,ITC major event 251,Positive,5,Moneycontrol
+2024-10-23,ITC major event 252,Negative,1,Bloomberg
+2024-10-30,ITC major event 253,Neutral,8,Reuters
+2024-11-06,ITC major event 254,Positive,10,Economic Times
+2024-11-13,ITC major event 255,Negative,1,Reuters
+2024-11-20,ITC major event 256,Negative,8,Moneycontrol
+2024-11-27,ITC major event 257,Positive,4,Moneycontrol
+2024-12-04,ITC major event 258,Positive,5,Moneycontrol
+2024-12-11,ITC major event 259,Positive,4,Bloomberg
+2024-12-18,ITC major event 260,Negative,5,Economic Times
+2024-12-25,ITC major event 261,Negative,3,Bloomberg
+2025-01-01,ITC major event 262,Negative,6,Reuters
+2025-01-08,ITC major event 263,Negative,5,Reuters
+2025-01-15,ITC major event 264,Positive,2,Economic Times
+2025-01-22,ITC major event 265,Positive,1,Economic Times
+2025-01-29,ITC major event 266,Negative,8,Reuters
+2025-02-05,ITC major event 267,Negative,7,Economic Times
+2025-02-12,ITC major event 268,Positive,8,Economic Times
+2025-02-19,ITC major event 269,Positive,6,Reuters
+2025-02-26,ITC major event 270,Neutral,7,Moneycontrol
+2025-03-05,ITC major event 271,Positive,6,Bloomberg
+2025-03-12,ITC major event 272,Neutral,3,Bloomberg
+2025-03-19,ITC major event 273,Negative,8,Economic Times
+2025-03-26,ITC major event 274,Neutral,3,Bloomberg
+2025-04-02,ITC major event 275,Positive,4,Moneycontrol
+2025-04-09,ITC major event 276,Neutral,10,Reuters
+2025-04-16,ITC major event 277,Positive,4,Bloomberg
+2025-04-23,ITC major event 278,Neutral,8,Bloomberg
+2025-04-30,ITC major event 279,Positive,5,Moneycontrol
+2025-05-07,ITC major event 280,Positive,9,Economic Times
+2025-05-14,ITC major event 281,Neutral,7,Economic Times
+2025-05-21,ITC major event 282,Negative,6,Bloomberg
+2025-05-28,ITC major event 283,Negative,6,Bloomberg
+2025-06-04,ITC major event 284,Negative,4,Economic Times
+2025-06-11,ITC major event 285,Positive,1,Reuters
+2025-06-18,ITC major event 286,Positive,10,Moneycontrol
+2025-06-25,ITC major event 287,Neutral,5,Bloomberg
+2025-07-02,ITC major event 288,Neutral,9,Bloomberg
+2025-07-09,ITC major event 289,Neutral,9,Reuters
+2025-07-16,ITC major event 290,Neutral,4,Bloomberg
+2025-07-23,ITC major event 291,Positive,10,Moneycontrol
+2025-07-30,ITC major event 292,Negative,6,Moneycontrol
+2025-08-06,ITC major event 293,Positive,8,Reuters
+2025-08-13,ITC major event 294,Neutral,6,Reuters
+2025-08-20,ITC major event 295,Neutral,4,Bloomberg
+2025-08-27,ITC major event 296,Negative,3,Reuters
+2025-09-03,ITC major event 297,Neutral,1,Reuters
+2025-09-10,ITC major event 298,Neutral,8,Reuters
+2025-09-17,ITC major event 299,Positive,2,Bloomberg
+2025-09-24,ITC major event 300,Neutral,9,Economic Times

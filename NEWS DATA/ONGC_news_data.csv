@@ -1,0 +1,301 @@
+Date,Headline,Sentiment,Impact,Source
+2020-01-01,ONGC major event 1,Negative,4,Reuters
+2020-01-08,ONGC major event 2,Positive,4,Reuters
+2020-01-15,ONGC major event 3,Positive,4,Moneycontrol
+2020-01-22,ONGC major event 4,Positive,1,Reuters
+2020-01-29,ONGC major event 5,Positive,2,Bloomberg
+2020-02-05,ONGC major event 6,Neutral,10,Moneycontrol
+2020-02-12,ONGC major event 7,Neutral,2,Moneycontrol
+2020-02-19,ONGC major event 8,Positive,5,Reuters
+2020-02-26,ONGC major event 9,Neutral,3,Economic Times
+2020-03-04,ONGC major event 10,Negative,5,Moneycontrol
+2020-03-11,ONGC major event 11,Neutral,9,Moneycontrol
+2020-03-18,ONGC major event 12,Neutral,1,Moneycontrol
+2020-03-25,ONGC major event 13,Negative,4,Bloomberg
+2020-04-01,ONGC major event 14,Neutral,1,Bloomberg
+2020-04-08,ONGC major event 15,Neutral,4,Moneycontrol
+2020-04-15,ONGC major event 16,Neutral,6,Moneycontrol
+2020-04-22,ONGC major event 17,Negative,4,Economic Times
+2020-04-29,ONGC major event 18,Negative,6,Reuters
+2020-05-06,ONGC major event 19,Neutral,1,Bloomberg
+2020-05-13,ONGC major event 20,Negative,9,Reuters
+2020-05-20,ONGC major event 21,Neutral,5,Bloomberg
+2020-05-27,ONGC major event 22,Negative,2,Economic Times
+2020-06-03,ONGC major event 23,Neutral,10,Bloomberg
+2020-06-10,ONGC major event 24,Neutral,1,Reuters
+2020-06-17,ONGC major event 25,Neutral,8,Bloomberg
+2020-06-24,ONGC major event 26,Neutral,1,Reuters
+2020-07-01,ONGC major event 27,Negative,5,Reuters
+2020-07-08,ONGC major event 28,Positive,3,Bloomberg
+2020-07-15,ONGC major event 29,Positive,10,Reuters
+2020-07-22,ONGC major event 30,Neutral,1,Reuters
+2020-07-29,ONGC major event 31,Neutral,8,Moneycontrol
+2020-08-05,ONGC major event 32,Positive,6,Reuters
+2020-08-12,ONGC major event 33,Neutral,1,Economic Times
+2020-08-19,ONGC major event 34,Positive,2,Economic Times
+2020-08-26,ONGC major event 35,Positive,10,Economic Times
+2020-09-02,ONGC major event 36,Positive,8,Economic Times
+2020-09-09,ONGC major event 37,Positive,7,Bloomberg
+2020-09-16,ONGC major event 38,Neutral,10,Economic Times
+2020-09-23,ONGC major event 39,Neutral,6,Reuters
+2020-09-30,ONGC major event 40,Negative,7,Moneycontrol
+2020-10-07,ONGC major event 41,Neutral,5,Economic Times
+2020-10-14,ONGC major event 42,Neutral,10,Reuters
+2020-10-21,ONGC major event 43,Positive,3,Economic Times
+2020-10-28,ONGC major event 44,Neutral,8,Bloomberg
+2020-11-04,ONGC major event 45,Negative,7,Economic Times
+2020-11-11,ONGC major event 46,Negative,4,Reuters
+2020-11-18,ONGC major event 47,Neutral,7,Reuters
+2020-11-25,ONGC major event 48,Positive,9,Economic Times
+2020-12-02,ONGC major event 49,Positive,2,Bloomberg
+2020-12-09,ONGC major event 50,Positive,9,Reuters
+2020-12-16,ONGC major event 51,Positive,10,Bloomberg
+2020-12-23,ONGC major event 52,Positive,10,Economic Times
+2020-12-30,ONGC major event 53,Negative,2,Moneycontrol
+2021-01-06,ONGC major event 54,Positive,9,Moneycontrol
+2021-01-13,ONGC major event 55,Neutral,9,Reuters
+2021-01-20,ONGC major event 56,Positive,2,Economic Times
+2021-01-27,ONGC major event 57,Negative,3,Moneycontrol
+2021-02-03,ONGC major event 58,Positive,10,Moneycontrol
+2021-02-10,ONGC major event 59,Positive,7,Reuters
+2021-02-17,ONGC major event 60,Neutral,7,Bloomberg
+2021-02-24,ONGC major event 61,Positive,10,Bloomberg
+2021-03-03,ONGC major event 62,Positive,5,Bloomberg
+2021-03-10,ONGC major event 63,Neutral,8,Economic Times
+2021-03-17,ONGC major event 64,Neutral,9,Economic Times
+2021-03-24,ONGC major event 65,Positive,9,Moneycontrol
+2021-03-31,ONGC major event 66,Negative,3,Moneycontrol
+2021-04-07,ONGC major event 67,Negative,1,Reuters
+2021-04-14,ONGC major event 68,Positive,8,Reuters
+2021-04-21,ONGC major event 69,Positive,9,Economic Times
+2021-04-28,ONGC major event 70,Negative,3,Reuters
+2021-05-05,ONGC major event 71,Positive,6,Economic Times
+2021-05-12,ONGC major event 72,Positive,2,Moneycontrol
+2021-05-19,ONGC major event 73,Neutral,5,Bloomberg
+2021-05-26,ONGC major event 74,Positive,10,Moneycontrol
+2021-06-02,ONGC major event 75,Positive,3,Moneycontrol
+2021-06-09,ONGC major event 76,Negative,7,Economic Times
+2021-06-16,ONGC major event 77,Neutral,4,Economic Times
+2021-06-23,ONGC major event 78,Neutral,9,Moneycontrol
+2021-06-30,ONGC major event 79,Neutral,1,Moneycontrol
+2021-07-07,ONGC major event 80,Negative,2,Moneycontrol
+2021-07-14,ONGC major event 81,Positive,10,Economic Times
+2021-07-21,ONGC major event 82,Negative,6,Economic Times
+2021-07-28,ONGC major event 83,Positive,8,Moneycontrol
+2021-08-04,ONGC major event 84,Neutral,8,Reuters
+2021-08-11,ONGC major event 85,Neutral,10,Reuters
+2021-08-18,ONGC major event 86,Negative,1,Economic Times
+2021-08-25,ONGC major event 87,Negative,3,Reuters
+2021-09-01,ONGC major event 88,Positive,7,Bloomberg
+2021-09-08,ONGC major event 89,Positive,8,Reuters
+2021-09-15,ONGC major event 90,Positive,4,Bloomberg
+2021-09-22,ONGC major event 91,Neutral,3,Moneycontrol
+2021-09-29,ONGC major event 92,Neutral,4,Moneycontrol
+2021-10-06,ONGC major event 93,Positive,5,Economic Times
+2021-10-13,ONGC major event 94,Positive,3,Moneycontrol
+2021-10-20,ONGC major event 95,Negative,8,Economic Times
+2021-10-27,ONGC major event 96,Positive,4,Moneycontrol
+2021-11-03,ONGC major event 97,Neutral,3,Economic Times
+2021-11-10,ONGC major event 98,Neutral,6,Bloomberg
+2021-11-17,ONGC major event 99,Neutral,7,Moneycontrol
+2021-11-24,ONGC major event 100,Positive,1,Moneycontrol
+2021-12-01,ONGC major event 101,Negative,6,Moneycontrol
+2021-12-08,ONGC major event 102,Neutral,4,Economic Times
+2021-12-15,ONGC major event 103,Negative,5,Moneycontrol
+2021-12-22,ONGC major event 104,Neutral,4,Economic Times
+2021-12-29,ONGC major event 105,Neutral,4,Moneycontrol
+2022-01-05,ONGC major event 106,Negative,4,Moneycontrol
+2022-01-12,ONGC major event 107,Negative,3,Moneycontrol
+2022-01-19,ONGC major event 108,Negative,8,Economic Times
+2022-01-26,ONGC major event 109,Neutral,7,Economic Times
+2022-02-02,ONGC major event 110,Negative,3,Bloomberg
+2022-02-09,ONGC major event 111,Neutral,9,Reuters
+2022-02-16,ONGC major event 112,Negative,7,Reuters
+2022-02-23,ONGC major event 113,Positive,9,Moneycontrol
+2022-03-02,ONGC major event 114,Positive,9,Economic Times
+2022-03-09,ONGC major event 115,Neutral,2,Economic Times
+2022-03-16,ONGC major event 116,Negative,6,Moneycontrol
+2022-03-23,ONGC major event 117,Negative,6,Reuters
+2022-03-30,ONGC major event 118,Neutral,6,Economic Times
+2022-04-06,ONGC major event 119,Negative,3,Economic Times
+2022-04-13,ONGC major event 120,Negative,1,Bloomberg
+2022-04-20,ONGC major event 121,Negative,10,Economic Times
+2022-04-27,ONGC major event 122,Negative,5,Bloomberg
+2022-05-04,ONGC major event 123,Positive,8,Reuters
+2022-05-11,ONGC major event 124,Positive,7,Economic Times
+2022-05-18,ONGC major event 125,Neutral,10,Economic Times
+2022-05-25,ONGC major event 126,Positive,10,Bloomberg
+2022-06-01,ONGC major event 127,Positive,2,Economic Times
+2022-06-08,ONGC major event 128,Positive,7,Reuters
+2022-06-15,ONGC major event 129,Positive,8,Reuters
+2022-06-22,ONGC major event 130,Neutral,6,Moneycontrol
+2022-06-29,ONGC major event 131,Neutral,1,Reuters
+2022-07-06,ONGC major event 132,Positive,10,Reuters
+2022-07-13,ONGC major event 133,Negative,6,Bloomberg
+2022-07-20,ONGC major event 134,Positive,8,Reuters
+2022-07-27,ONGC major event 135,Negative,5,Moneycontrol
+2022-08-03,ONGC major event 136,Positive,1,Moneycontrol
+2022-08-10,ONGC major event 137,Negative,7,Economic Times
+2022-08-17,ONGC major event 138,Negative,2,Reuters
+2022-08-24,ONGC major event 139,Positive,10,Economic Times
+2022-08-31,ONGC major event 140,Negative,6,Economic Times
+2022-09-07,ONGC major event 141,Positive,1,Bloomberg
+2022-09-14,ONGC major event 142,Negative,7,Bloomberg
+2022-09-21,ONGC major event 143,Positive,5,Reuters
+2022-09-28,ONGC major event 144,Negative,9,Bloomberg
+2022-10-05,ONGC major event 145,Negative,7,Reuters
+2022-10-12,ONGC major event 146,Positive,10,Bloomberg
+2022-10-19,ONGC major event 147,Negative,6,Reuters
+2022-10-26,ONGC major event 148,Negative,2,Moneycontrol
+2022-11-02,ONGC major event 149,Negative,7,Bloomberg
+2022-11-09,ONGC major event 150,Neutral,2,Moneycontrol
+2022-11-16,ONGC major event 151,Negative,5,Reuters
+2022-11-23,ONGC major event 152,Positive,10,Reuters
+2022-11-30,ONGC major event 153,Negative,5,Reuters
+2022-12-07,ONGC major event 154,Negative,5,Moneycontrol
+2022-12-14,ONGC major event 155,Positive,5,Bloomberg
+2022-12-21,ONGC major event 156,Neutral,2,Bloomberg
+2022-12-28,ONGC major event 157,Positive,5,Economic Times
+2023-01-04,ONGC major event 158,Positive,8,Moneycontrol
+2023-01-11,ONGC major event 159,Negative,7,Reuters
+2023-01-18,ONGC major event 160,Neutral,7,Reuters
+2023-01-25,ONGC major event 161,Positive,7,Reuters
+2023-02-01,ONGC major event 162,Negative,1,Reuters
+2023-02-08,ONGC major event 163,Negative,3,Reuters
+2023-02-15,ONGC major event 164,Negative,8,Economic Times
+2023-02-22,ONGC major event 165,Neutral,1,Bloomberg
+2023-03-01,ONGC major event 166,Negative,6,Reuters
+2023-03-08,ONGC major event 167,Neutral,8,Reuters
+2023-03-15,ONGC major event 168,Positive,4,Moneycontrol
+2023-03-22,ONGC major event 169,Negative,10,Bloomberg
+2023-03-29,ONGC major event 170,Positive,1,Bloomberg
+2023-04-05,ONGC major event 171,Neutral,1,Moneycontrol
+2023-04-12,ONGC major event 172,Positive,2,Economic Times
+2023-04-19,ONGC major event 173,Positive,9,Moneycontrol
+2023-04-26,ONGC major event 174,Positive,10,Moneycontrol
+2023-05-03,ONGC major event 175,Positive,3,Bloomberg
+2023-05-10,ONGC major event 176,Negative,2,Economic Times
+2023-05-17,ONGC major event 177,Negative,10,Bloomberg
+2023-05-24,ONGC major event 178,Negative,4,Economic Times
+2023-05-31,ONGC major event 179,Neutral,10,Moneycontrol
+2023-06-07,ONGC major event 180,Negative,8,Moneycontrol
+2023-06-14,ONGC major event 181,Negative,4,Reuters
+2023-06-21,ONGC major event 182,Positive,9,Reuters
+2023-06-28,ONGC major event 183,Positive,7,Reuters
+2023-07-05,ONGC major event 184,Negative,8,Bloomberg
+2023-07-12,ONGC major event 185,Neutral,10,Reuters
+2023-07-19,ONGC major event 186,Positive,9,Reuters
+2023-07-26,ONGC major event 187,Neutral,2,Bloomberg
+2023-08-02,ONGC major event 188,Neutral,4,Economic Times
+2023-08-09,ONGC major event 189,Neutral,5,Moneycontrol
+2023-08-16,ONGC major event 190,Positive,3,Economic Times
+2023-08-23,ONGC major event 191,Neutral,6,Reuters
+2023-08-30,ONGC major event 192,Negative,10,Reuters
+2023-09-06,ONGC major event 193,Positive,4,Moneycontrol
+2023-09-13,ONGC major event 194,Negative,3,Bloomberg
+2023-09-20,ONGC major event 195,Positive,3,Economic Times
+2023-09-27,ONGC major event 196,Neutral,2,Moneycontrol
+2023-10-04,ONGC major event 197,Positive,10,Reuters
+2023-10-11,ONGC major event 198,Neutral,5,Economic Times
+2023-10-18,ONGC major event 199,Positive,10,Economic Times
+2023-10-25,ONGC major event 200,Negative,4,Moneycontrol
+2023-11-01,ONGC major event 201,Negative,8,Bloomberg
+2023-11-08,ONGC major event 202,Negative,10,Moneycontrol
+2023-11-15,ONGC major event 203,Negative,4,Reuters
+2023-11-22,ONGC major event 204,Positive,9,Economic Times
+2023-11-29,ONGC major event 205,Neutral,3,Bloomberg
+2023-12-06,ONGC major event 206,Negative,10,Reuters
+2023-12-13,ONGC major event 207,Negative,3,Moneycontrol
+2023-12-20,ONGC major event 208,Positive,8,Moneycontrol
+2023-12-27,ONGC major event 209,Neutral,10,Reuters
+2024-01-03,ONGC major event 210,Negative,6,Moneycontrol
+2024-01-10,ONGC major event 211,Negative,1,Moneycontrol
+2024-01-17,ONGC major event 212,Negative,6,Reuters
+2024-01-24,ONGC major event 213,Neutral,7,Moneycontrol
+2024-01-31,ONGC major event 214,Negative,7,Reuters
+2024-02-07,ONGC major event 215,Negative,1,Bloomberg
+2024-02-14,ONGC major event 216,Neutral,10,Reuters
+2024-02-21,ONGC major event 217,Positive,4,Reuters
+2024-02-28,ONGC major event 218,Neutral,3,Economic Times
+2024-03-06,ONGC major event 219,Negative,1,Reuters
+2024-03-13,ONGC major event 220,Positive,4,Moneycontrol
+2024-03-20,ONGC major event 221,Neutral,7,Moneycontrol
+2024-03-27,ONGC major event 222,Positive,7,Moneycontrol
+2024-04-03,ONGC major event 223,Negative,10,Economic Times
+2024-04-10,ONGC major event 224,Negative,8,Economic Times
+2024-04-17,ONGC major event 225,Neutral,6,Bloomberg
+2024-04-24,ONGC major event 226,Neutral,2,Moneycontrol
+2024-05-01,ONGC major event 227,Neutral,6,Bloomberg
+2024-05-08,ONGC major event 228,Positive,7,Reuters
+2024-05-15,ONGC major event 229,Negative,3,Moneycontrol
+2024-05-22,ONGC major event 230,Negative,2,Moneycontrol
+2024-05-29,ONGC major event 231,Neutral,9,Economic Times
+2024-06-05,ONGC major event 232,Neutral,6,Reuters
+2024-06-12,ONGC major event 233,Positive,8,Moneycontrol
+2024-06-19,ONGC major event 234,Negative,5,Bloomberg
+2024-06-26,ONGC major event 235,Negative,8,Moneycontrol
+2024-07-03,ONGC major event 236,Negative,9,Moneycontrol
+2024-07-10,ONGC major event 237,Positive,2,Bloomberg
+2024-07-17,ONGC major event 238,Positive,10,Economic Times
+2024-07-24,ONGC major event 239,Negative,6,Moneycontrol
+2024-07-31,ONGC major event 240,Neutral,4,Reuters
+2024-08-07,ONGC major event 241,Negative,9,Economic Times
+2024-08-14,ONGC major event 242,Negative,9,Economic Times
+2024-08-21,ONGC major event 243,Neutral,9,Moneycontrol
+2024-08-28,ONGC major event 244,Positive,1,Reuters
+2024-09-04,ONGC major event 245,Negative,3,Moneycontrol
+2024-09-11,ONGC major event 246,Neutral,2,Bloomberg
+2024-09-18,ONGC major event 247,Negative,6,Bloomberg
+2024-09-25,ONGC major event 248,Positive,7,Bloomberg
+2024-10-02,ONGC major event 249,Negative,9,Economic Times
+2024-10-09,ONGC major event 250,Negative,2,Reuters
+2024-10-16,ONGC major event 251,Positive,6,Economic Times
+2024-10-23,ONGC major event 252,Neutral,7,Economic Times
+2024-10-30,ONGC major event 253,Positive,8,Bloomberg
+2024-11-06,ONGC major event 254,Negative,4,Moneycontrol
+2024-11-13,ONGC major event 255,Negative,10,Moneycontrol
+2024-11-20,ONGC major event 256,Neutral,2,Moneycontrol
+2024-11-27,ONGC major event 257,Negative,9,Moneycontrol
+2024-12-04,ONGC major event 258,Positive,4,Reuters
+2024-12-11,ONGC major event 259,Negative,4,Moneycontrol
+2024-12-18,ONGC major event 260,Negative,6,Economic Times
+2024-12-25,ONGC major event 261,Neutral,9,Reuters
+2025-01-01,ONGC major event 262,Neutral,6,Moneycontrol
+2025-01-08,ONGC major event 263,Neutral,4,Economic Times
+2025-01-15,ONGC major event 264,Neutral,1,Bloomberg
+2025-01-22,ONGC major event 265,Negative,2,Bloomberg
+2025-01-29,ONGC major event 266,Negative,9,Moneycontrol
+2025-02-05,ONGC major event 267,Negative,10,Reuters
+2025-02-12,ONGC major event 268,Negative,2,Reuters
+2025-02-19,ONGC major event 269,Positive,7,Economic Times
+2025-02-26,ONGC major event 270,Positive,1,Bloomberg
+2025-03-05,ONGC major event 271,Positive,7,Economic Times
+2025-03-12,ONGC major event 272,Positive,10,Reuters
+2025-03-19,ONGC major event 273,Neutral,4,Moneycontrol
+2025-03-26,ONGC major event 274,Positive,8,Bloomberg
+2025-04-02,ONGC major event 275,Neutral,5,Moneycontrol
+2025-04-09,ONGC major event 276,Positive,4,Reuters
+2025-04-16,ONGC major event 277,Positive,10,Economic Times
+2025-04-23,ONGC major event 278,Negative,6,Moneycontrol
+2025-04-30,ONGC major event 279,Positive,3,Economic Times
+2025-05-07,ONGC major event 280,Neutral,9,Bloomberg
+2025-05-14,ONGC major event 281,Neutral,10,Reuters
+2025-05-21,ONGC major event 282,Neutral,1,Moneycontrol
+2025-05-28,ONGC major event 283,Positive,4,Bloomberg
+2025-06-04,ONGC major event 284,Negative,1,Reuters
+2025-06-11,ONGC major event 285,Negative,9,Reuters
+2025-06-18,ONGC major event 286,Positive,9,Bloomberg
+2025-06-25,ONGC major event 287,Negative,9,Moneycontrol
+2025-07-02,ONGC major event 288,Neutral,7,Economic Times
+2025-07-09,ONGC major event 289,Positive,5,Economic Times
+2025-07-16,ONGC major event 290,Negative,8,Economic Times
+2025-07-23,ONGC major event 291,Neutral,4,Bloomberg
+2025-07-30,ONGC major event 292,Positive,5,Bloomberg
+2025-08-06,ONGC major event 293,Negative,6,Bloomberg
+2025-08-13,ONGC major event 294,Negative,3,Bloomberg
+2025-08-20,ONGC major event 295,Positive,10,Moneycontrol
+2025-08-27,ONGC major event 296,Negative,3,Economic Times
+2025-09-03,ONGC major event 297,Neutral,3,Moneycontrol
+2025-09-10,ONGC major event 298,Negative,7,Reuters
+2025-09-17,ONGC major event 299,Neutral,6,Economic Times
+2025-09-24,ONGC major event 300,Neutral,5,Moneycontrol

@@ -1,0 +1,301 @@
+Date,Headline,Sentiment,Impact,Source
+2020-01-01,IRCTC major event 1,Neutral,7,Moneycontrol
+2020-01-08,IRCTC major event 2,Neutral,3,Bloomberg
+2020-01-15,IRCTC major event 3,Neutral,4,Moneycontrol
+2020-01-22,IRCTC major event 4,Positive,8,Economic Times
+2020-01-29,IRCTC major event 5,Neutral,8,Reuters
+2020-02-05,IRCTC major event 6,Negative,3,Bloomberg
+2020-02-12,IRCTC major event 7,Positive,3,Economic Times
+2020-02-19,IRCTC major event 8,Negative,1,Reuters
+2020-02-26,IRCTC major event 9,Positive,5,Bloomberg
+2020-03-04,IRCTC major event 10,Positive,7,Bloomberg
+2020-03-11,IRCTC major event 11,Neutral,3,Reuters
+2020-03-18,IRCTC major event 12,Positive,4,Economic Times
+2020-03-25,IRCTC major event 13,Negative,6,Economic Times
+2020-04-01,IRCTC major event 14,Positive,3,Reuters
+2020-04-08,IRCTC major event 15,Positive,5,Bloomberg
+2020-04-15,IRCTC major event 16,Positive,8,Economic Times
+2020-04-22,IRCTC major event 17,Neutral,6,Moneycontrol
+2020-04-29,IRCTC major event 18,Positive,2,Economic Times
+2020-05-06,IRCTC major event 19,Neutral,5,Bloomberg
+2020-05-13,IRCTC major event 20,Positive,10,Reuters
+2020-05-20,IRCTC major event 21,Positive,8,Reuters
+2020-05-27,IRCTC major event 22,Negative,1,Economic Times
+2020-06-03,IRCTC major event 23,Neutral,1,Reuters
+2020-06-10,IRCTC major event 24,Negative,8,Bloomberg
+2020-06-17,IRCTC major event 25,Negative,7,Reuters
+2020-06-24,IRCTC major event 26,Neutral,6,Moneycontrol
+2020-07-01,IRCTC major event 27,Neutral,5,Moneycontrol
+2020-07-08,IRCTC major event 28,Positive,9,Reuters
+2020-07-15,IRCTC major event 29,Positive,10,Bloomberg
+2020-07-22,IRCTC major event 30,Negative,6,Economic Times
+2020-07-29,IRCTC major event 31,Positive,6,Bloomberg
+2020-08-05,IRCTC major event 32,Negative,7,Moneycontrol
+2020-08-12,IRCTC major event 33,Negative,6,Reuters
+2020-08-19,IRCTC major event 34,Neutral,3,Reuters
+2020-08-26,IRCTC major event 35,Negative,6,Bloomberg
+2020-09-02,IRCTC major event 36,Negative,8,Moneycontrol
+2020-09-09,IRCTC major event 37,Negative,5,Reuters
+2020-09-16,IRCTC major event 38,Negative,6,Economic Times
+2020-09-23,IRCTC major event 39,Positive,2,Bloomberg
+2020-09-30,IRCTC major event 40,Negative,2,Moneycontrol
+2020-10-07,IRCTC major event 41,Positive,3,Moneycontrol
+2020-10-14,IRCTC major event 42,Positive,3,Moneycontrol
+2020-10-21,IRCTC major event 43,Positive,2,Bloomberg
+2020-10-28,IRCTC major event 44,Positive,8,Moneycontrol
+2020-11-04,IRCTC major event 45,Positive,5,Reuters
+2020-11-11,IRCTC major event 46,Neutral,6,Reuters
+2020-11-18,IRCTC major event 47,Negative,2,Moneycontrol
+2020-11-25,IRCTC major event 48,Negative,1,Economic Times
+2020-12-02,IRCTC major event 49,Negative,3,Bloomberg
+2020-12-09,IRCTC major event 50,Positive,3,Reuters
+2020-12-16,IRCTC major event 51,Positive,8,Reuters
+2020-12-23,IRCTC major event 52,Neutral,7,Economic Times
+2020-12-30,IRCTC major event 53,Positive,9,Bloomberg
+2021-01-06,IRCTC major event 54,Neutral,6,Bloomberg
+2021-01-13,IRCTC major event 55,Neutral,3,Reuters
+2021-01-20,IRCTC major event 56,Negative,9,Moneycontrol
+2021-01-27,IRCTC major event 57,Positive,2,Moneycontrol
+2021-02-03,IRCTC major event 58,Positive,2,Bloomberg
+2021-02-10,IRCTC major event 59,Positive,5,Economic Times
+2021-02-17,IRCTC major event 60,Positive,1,Economic Times
+2021-02-24,IRCTC major event 61,Negative,6,Moneycontrol
+2021-03-03,IRCTC major event 62,Negative,9,Economic Times
+2021-03-10,IRCTC major event 63,Positive,4,Moneycontrol
+2021-03-17,IRCTC major event 64,Positive,7,Moneycontrol
+2021-03-24,IRCTC major event 65,Negative,8,Moneycontrol
+2021-03-31,IRCTC major event 66,Positive,7,Economic Times
+2021-04-07,IRCTC major event 67,Neutral,8,Moneycontrol
+2021-04-14,IRCTC major event 68,Negative,5,Moneycontrol
+2021-04-21,IRCTC major event 69,Positive,10,Reuters
+2021-04-28,IRCTC major event 70,Neutral,5,Reuters
+2021-05-05,IRCTC major event 71,Negative,1,Economic Times
+2021-05-12,IRCTC major event 72,Negative,6,Reuters
+2021-05-19,IRCTC major event 73,Positive,10,Bloomberg
+2021-05-26,IRCTC major event 74,Neutral,1,Economic Times
+2021-06-02,IRCTC major event 75,Positive,10,Moneycontrol
+2021-06-09,IRCTC major event 76,Negative,9,Economic Times
+2021-06-16,IRCTC major event 77,Neutral,7,Reuters
+2021-06-23,IRCTC major event 78,Neutral,10,Bloomberg
+2021-06-30,IRCTC major event 79,Neutral,4,Bloomberg
+2021-07-07,IRCTC major event 80,Neutral,5,Economic Times
+2021-07-14,IRCTC major event 81,Positive,9,Moneycontrol
+2021-07-21,IRCTC major event 82,Negative,4,Bloomberg
+2021-07-28,IRCTC major event 83,Negative,2,Reuters
+2021-08-04,IRCTC major event 84,Negative,5,Moneycontrol
+2021-08-11,IRCTC major event 85,Negative,1,Moneycontrol
+2021-08-18,IRCTC major event 86,Positive,5,Moneycontrol
+2021-08-25,IRCTC major event 87,Positive,7,Reuters
+2021-09-01,IRCTC major event 88,Neutral,6,Reuters
+2021-09-08,IRCTC major event 89,Neutral,1,Bloomberg
+2021-09-15,IRCTC major event 90,Positive,2,Economic Times
+2021-09-22,IRCTC major event 91,Negative,1,Moneycontrol
+2021-09-29,IRCTC major event 92,Negative,7,Bloomberg
+2021-10-06,IRCTC major event 93,Negative,6,Moneycontrol
+2021-10-13,IRCTC major event 94,Positive,8,Reuters
+2021-10-20,IRCTC major event 95,Negative,3,Bloomberg
+2021-10-27,IRCTC major event 96,Neutral,1,Reuters
+2021-11-03,IRCTC major event 97,Neutral,1,Bloomberg
+2021-11-10,IRCTC major event 98,Positive,5,Reuters
+2021-11-17,IRCTC major event 99,Negative,2,Moneycontrol
+2021-11-24,IRCTC major event 100,Negative,2,Reuters
+2021-12-01,IRCTC major event 101,Neutral,5,Reuters
+2021-12-08,IRCTC major event 102,Neutral,4,Bloomberg
+2021-12-15,IRCTC major event 103,Negative,4,Bloomberg
+2021-12-22,IRCTC major event 104,Neutral,1,Moneycontrol
+2021-12-29,IRCTC major event 105,Positive,8,Moneycontrol
+2022-01-05,IRCTC major event 106,Positive,1,Bloomberg
+2022-01-12,IRCTC major event 107,Neutral,9,Moneycontrol
+2022-01-19,IRCTC major event 108,Negative,6,Reuters
+2022-01-26,IRCTC major event 109,Positive,3,Moneycontrol
+2022-02-02,IRCTC major event 110,Neutral,10,Economic Times
+2022-02-09,IRCTC major event 111,Neutral,1,Bloomberg
+2022-02-16,IRCTC major event 112,Positive,1,Economic Times
+2022-02-23,IRCTC major event 113,Neutral,6,Moneycontrol
+2022-03-02,IRCTC major event 114,Neutral,1,Economic Times
+2022-03-09,IRCTC major event 115,Positive,9,Bloomberg
+2022-03-16,IRCTC major event 116,Negative,6,Moneycontrol
+2022-03-23,IRCTC major event 117,Negative,3,Reuters
+2022-03-30,IRCTC major event 118,Positive,1,Economic Times
+2022-04-06,IRCTC major event 119,Neutral,6,Reuters
+2022-04-13,IRCTC major event 120,Negative,3,Bloomberg
+2022-04-20,IRCTC major event 121,Positive,8,Economic Times
+2022-04-27,IRCTC major event 122,Negative,8,Reuters
+2022-05-04,IRCTC major event 123,Negative,2,Bloomberg
+2022-05-11,IRCTC major event 124,Neutral,9,Economic Times
+2022-05-18,IRCTC major event 125,Neutral,4,Moneycontrol
+2022-05-25,IRCTC major event 126,Neutral,8,Bloomberg
+2022-06-01,IRCTC major event 127,Positive,4,Economic Times
+2022-06-08,IRCTC major event 128,Negative,3,Economic Times
+2022-06-15,IRCTC major event 129,Positive,6,Reuters
+2022-06-22,IRCTC major event 130,Positive,9,Reuters
+2022-06-29,IRCTC major event 131,Neutral,5,Reuters
+2022-07-06,IRCTC major event 132,Neutral,4,Moneycontrol
+2022-07-13,IRCTC major event 133,Positive,10,Moneycontrol
+2022-07-20,IRCTC major event 134,Neutral,3,Bloomberg
+2022-07-27,IRCTC major event 135,Negative,10,Economic Times
+2022-08-03,IRCTC major event 136,Positive,8,Economic Times
+2022-08-10,IRCTC major event 137,Negative,2,Economic Times
+2022-08-17,IRCTC major event 138,Neutral,9,Moneycontrol
+2022-08-24,IRCTC major event 139,Negative,9,Bloomberg
+2022-08-31,IRCTC major event 140,Positive,10,Reuters
+2022-09-07,IRCTC major event 141,Neutral,7,Bloomberg
+2022-09-14,IRCTC major event 142,Negative,2,Bloomberg
+2022-09-21,IRCTC major event 143,Negative,9,Bloomberg
+2022-09-28,IRCTC major event 144,Positive,1,Bloomberg
+2022-10-05,IRCTC major event 145,Positive,5,Economic Times
+2022-10-12,IRCTC major event 146,Positive,2,Reuters
+2022-10-19,IRCTC major event 147,Neutral,1,Bloomberg
+2022-10-26,IRCTC major event 148,Negative,9,Moneycontrol
+2022-11-02,IRCTC major event 149,Negative,5,Moneycontrol
+2022-11-09,IRCTC major event 150,Negative,1,Moneycontrol
+2022-11-16,IRCTC major event 151,Negative,5,Moneycontrol
+2022-11-23,IRCTC major event 152,Negative,8,Bloomberg
+2022-11-30,IRCTC major event 153,Negative,2,Economic Times
+2022-12-07,IRCTC major event 154,Positive,10,Economic Times
+2022-12-14,IRCTC major event 155,Negative,6,Reuters
+2022-12-21,IRCTC major event 156,Neutral,1,Bloomberg
+2022-12-28,IRCTC major event 157,Neutral,10,Economic Times
+2023-01-04,IRCTC major event 158,Negative,2,Economic Times
+2023-01-11,IRCTC major event 159,Positive,6,Moneycontrol
+2023-01-18,IRCTC major event 160,Negative,2,Moneycontrol
+2023-01-25,IRCTC major event 161,Positive,7,Bloomberg
+2023-02-01,IRCTC major event 162,Positive,2,Reuters
+2023-02-08,IRCTC major event 163,Neutral,6,Economic Times
+2023-02-15,IRCTC major event 164,Positive,8,Bloomberg
+2023-02-22,IRCTC major event 165,Positive,4,Moneycontrol
+2023-03-01,IRCTC major event 166,Neutral,7,Economic Times
+2023-03-08,IRCTC major event 167,Negative,4,Bloomberg
+2023-03-15,IRCTC major event 168,Negative,3,Bloomberg
+2023-03-22,IRCTC major event 169,Negative,9,Economic Times
+2023-03-29,IRCTC major event 170,Positive,3,Bloomberg
+2023-04-05,IRCTC major event 171,Positive,2,Economic Times
+2023-04-12,IRCTC major event 172,Negative,9,Moneycontrol
+2023-04-19,IRCTC major event 173,Positive,8,Economic Times
+2023-04-26,IRCTC major event 174,Positive,5,Moneycontrol
+2023-05-03,IRCTC major event 175,Neutral,2,Bloomberg
+2023-05-10,IRCTC major event 176,Negative,5,Economic Times
+2023-05-17,IRCTC major event 177,Neutral,5,Reuters
+2023-05-24,IRCTC major event 178,Positive,3,Moneycontrol
+2023-05-31,IRCTC major event 179,Positive,2,Bloomberg
+2023-06-07,IRCTC major event 180,Positive,6,Economic Times
+2023-06-14,IRCTC major event 181,Positive,3,Economic Times
+2023-06-21,IRCTC major event 182,Neutral,9,Moneycontrol
+2023-06-28,IRCTC major event 183,Positive,8,Reuters
+2023-07-05,IRCTC major event 184,Neutral,1,Economic Times
+2023-07-12,IRCTC major event 185,Negative,10,Moneycontrol
+2023-07-19,IRCTC major event 186,Negative,10,Moneycontrol
+2023-07-26,IRCTC major event 187,Neutral,8,Economic Times
+2023-08-02,IRCTC major event 188,Positive,1,Moneycontrol
+2023-08-09,IRCTC major event 189,Positive,5,Economic Times
+2023-08-16,IRCTC major event 190,Neutral,2,Economic Times
+2023-08-23,IRCTC major event 191,Neutral,5,Reuters
+2023-08-30,IRCTC major event 192,Positive,7,Reuters
+2023-09-06,IRCTC major event 193,Positive,3,Economic Times
+2023-09-13,IRCTC major event 194,Neutral,3,Moneycontrol
+2023-09-20,IRCTC major event 195,Neutral,1,Bloomberg
+2023-09-27,IRCTC major event 196,Neutral,9,Bloomberg
+2023-10-04,IRCTC major event 197,Positive,7,Bloomberg
+2023-10-11,IRCTC major event 198,Positive,3,Moneycontrol
+2023-10-18,IRCTC major event 199,Neutral,8,Economic Times
+2023-10-25,IRCTC major event 200,Positive,9,Economic Times
+2023-11-01,IRCTC major event 201,Negative,9,Economic Times
+2023-11-08,IRCTC major event 202,Positive,2,Economic Times
+2023-11-15,IRCTC major event 203,Neutral,8,Bloomberg
+2023-11-22,IRCTC major event 204,Positive,8,Reuters
+2023-11-29,IRCTC major event 205,Positive,3,Economic Times
+2023-12-06,IRCTC major event 206,Neutral,5,Economic Times
+2023-12-13,IRCTC major event 207,Positive,1,Reuters
+2023-12-20,IRCTC major event 208,Negative,4,Bloomberg
+2023-12-27,IRCTC major event 209,Positive,6,Reuters
+2024-01-03,IRCTC major event 210,Positive,7,Moneycontrol
+2024-01-10,IRCTC major event 211,Negative,2,Moneycontrol
+2024-01-17,IRCTC major event 212,Positive,9,Economic Times
+2024-01-24,IRCTC major event 213,Neutral,6,Bloomberg
+2024-01-31,IRCTC major event 214,Negative,7,Economic Times
+2024-02-07,IRCTC major event 215,Neutral,2,Bloomberg
+2024-02-14,IRCTC major event 216,Neutral,10,Reuters
+2024-02-21,IRCTC major event 217,Neutral,4,Reuters
+2024-02-28,IRCTC major event 218,Positive,6,Moneycontrol
+2024-03-06,IRCTC major event 219,Negative,1,Moneycontrol
+2024-03-13,IRCTC major event 220,Negative,3,Moneycontrol
+2024-03-20,IRCTC major event 221,Negative,10,Reuters
+2024-03-27,IRCTC major event 222,Negative,10,Economic Times
+2024-04-03,IRCTC major event 223,Negative,5,Bloomberg
+2024-04-10,IRCTC major event 224,Negative,7,Moneycontrol
+2024-04-17,IRCTC major event 225,Positive,5,Bloomberg
+2024-04-24,IRCTC major event 226,Neutral,9,Reuters
+2024-05-01,IRCTC major event 227,Positive,6,Economic Times
+2024-05-08,IRCTC major event 228,Positive,5,Moneycontrol
+2024-05-15,IRCTC major event 229,Neutral,5,Moneycontrol
+2024-05-22,IRCTC major event 230,Positive,5,Moneycontrol
+2024-05-29,IRCTC major event 231,Positive,9,Bloomberg
+2024-06-05,IRCTC major event 232,Neutral,1,Moneycontrol
+2024-06-12,IRCTC major event 233,Neutral,1,Moneycontrol
+2024-06-19,IRCTC major event 234,Positive,5,Reuters
+2024-06-26,IRCTC major event 235,Neutral,10,Bloomberg
+2024-07-03,IRCTC major event 236,Negative,8,Reuters
+2024-07-10,IRCTC major event 237,Neutral,9,Moneycontrol
+2024-07-17,IRCTC major event 238,Positive,3,Bloomberg
+2024-07-24,IRCTC major event 239,Neutral,3,Bloomberg
+2024-07-31,IRCTC major event 240,Negative,5,Economic Times
+2024-08-07,IRCTC major event 241,Positive,5,Moneycontrol
+2024-08-14,IRCTC major event 242,Positive,5,Moneycontrol
+2024-08-21,IRCTC major event 243,Neutral,7,Moneycontrol
+2024-08-28,IRCTC major event 244,Positive,5,Bloomberg
+2024-09-04,IRCTC major event 245,Negative,4,Reuters
+2024-09-11,IRCTC major event 246,Neutral,4,Bloomberg
+2024-09-18,IRCTC major event 247,Negative,6,Economic Times
+2024-09-25,IRCTC major event 248,Neutral,8,Reuters
+2024-10-02,IRCTC major event 249,Negative,2,Bloomberg
+2024-10-09,IRCTC major event 250,Positive,4,Economic Times
+2024-10-16,IRCTC major event 251,Positive,8,Economic Times
+2024-10-23,IRCTC major event 252,Neutral,10,Moneycontrol
+2024-10-30,IRCTC major event 253,Negative,3,Moneycontrol
+2024-11-06,IRCTC major event 254,Positive,6,Bloomberg
+2024-11-13,IRCTC major event 255,Negative,5,Bloomberg
+2024-11-20,IRCTC major event 256,Neutral,6,Bloomberg
+2024-11-27,IRCTC major event 257,Neutral,2,Economic Times
+2024-12-04,IRCTC major event 258,Positive,3,Moneycontrol
+2024-12-11,IRCTC major event 259,Negative,9,Economic Times
+2024-12-18,IRCTC major event 260,Positive,7,Reuters
+2024-12-25,IRCTC major event 261,Positive,4,Bloomberg
+2025-01-01,IRCTC major event 262,Neutral,4,Bloomberg
+2025-01-08,IRCTC major event 263,Positive,2,Moneycontrol
+2025-01-15,IRCTC major event 264,Neutral,6,Moneycontrol
+2025-01-22,IRCTC major event 265,Neutral,6,Reuters
+2025-01-29,IRCTC major event 266,Neutral,3,Bloomberg
+2025-02-05,IRCTC major event 267,Neutral,8,Economic Times
+2025-02-12,IRCTC major event 268,Negative,4,Reuters
+2025-02-19,IRCTC major event 269,Positive,5,Reuters
+2025-02-26,IRCTC major event 270,Positive,3,Moneycontrol
+2025-03-05,IRCTC major event 271,Neutral,4,Reuters
+2025-03-12,IRCTC major event 272,Neutral,1,Economic Times
+2025-03-19,IRCTC major event 273,Neutral,8,Bloomberg
+2025-03-26,IRCTC major event 274,Negative,10,Reuters
+2025-04-02,IRCTC major event 275,Negative,2,Economic Times
+2025-04-09,IRCTC major event 276,Positive,1,Reuters
+2025-04-16,IRCTC major event 277,Neutral,7,Reuters
+2025-04-23,IRCTC major event 278,Positive,6,Economic Times
+2025-04-30,IRCTC major event 279,Positive,6,Reuters
+2025-05-07,IRCTC major event 280,Negative,8,Bloomberg
+2025-05-14,IRCTC major event 281,Neutral,2,Reuters
+2025-05-21,IRCTC major event 282,Neutral,1,Reuters
+2025-05-28,IRCTC major event 283,Negative,4,Economic Times
+2025-06-04,IRCTC major event 284,Positive,6,Reuters
+2025-06-11,IRCTC major event 285,Negative,6,Economic Times
+2025-06-18,IRCTC major event 286,Neutral,2,Bloomberg
+2025-06-25,IRCTC major event 287,Positive,10,Moneycontrol
+2025-07-02,IRCTC major event 288,Neutral,4,Economic Times
+2025-07-09,IRCTC major event 289,Negative,8,Economic Times
+2025-07-16,IRCTC major event 290,Neutral,1,Moneycontrol
+2025-07-23,IRCTC major event 291,Neutral,5,Bloomberg
+2025-07-30,IRCTC major event 292,Neutral,8,Economic Times
+2025-08-06,IRCTC major event 293,Neutral,4,Reuters
+2025-08-13,IRCTC major event 294,Positive,4,Moneycontrol
+2025-08-20,IRCTC major event 295,Neutral,9,Moneycontrol
+2025-08-27,IRCTC major event 296,Neutral,9,Bloomberg
+2025-09-03,IRCTC major event 297,Negative,1,Reuters
+2025-09-10,IRCTC major event 298,Negative,1,Reuters
+2025-09-17,IRCTC major event 299,Positive,9,Bloomberg
+2025-09-24,IRCTC major event 300,Positive,2,Economic Times

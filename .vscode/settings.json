@@ -1,0 +1,9 @@
+{
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.extraPaths": [
+    "."
+  ],
+  "python.envFile": "${workspaceFolder}/.env",
+  "python.terminal.activateEnvironment": true
+}
+

@@ -1,0 +1,46 @@
+{
+  "arch_id": "fd07299b69a036fa0103834e0c53fb2842129230715d07f0c6a256028241a970",
+  "attention": true,
+  "attention_fix": "learned_attn_v3",
+  "batch_norm": true,
+  "bilstm_units": [
+    128,
+    64,
+    32
+  ],
+  "dense_head": [
+    64,
+    32,
+    1
+  ],
+  "dropout": 0.2,
+  "features": [
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "SMA_10",
+    "SMA_50",
+    "RSI_14",
+    "MACD_signal",
+    "sentiment_rolling_3day",
+    "Volume_norm",
+    "ROC_5",
+    "price_diff_1",
+    "rolling_std_20",
+    "BB_position",
+    "sentiment_trend"
+  ],
+  "kernel_init": "he_normal",
+  "l2": 0.0001,
+  "lookback": 90,
+  "loss": "directional_huber_1.0",
+  "metrics_on_raw": true,
+  "n_features": 15,
+  "optimizer": "adam_1e-3_clipnorm1",
+  "rf_svr_roc_features": true,
+  "rf_svr_sentiment_rolling": true,
+  "scaler_fit": "train_only",
+  "split": "70_15_15",
+  "target": "log_return"
+}

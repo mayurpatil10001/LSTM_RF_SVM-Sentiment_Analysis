@@ -54,9 +54,9 @@ try:
     print(f"  R²   = {m['r2']:.4f}")
     print(f"  Time = {rf['training_time']}s")
     print(f"  Predictions shape: {rf['predictions'].shape}")
-    print("  ✅ RF PASSED")
+    print("  [OK] RF PASSED")
 except Exception as e:
-    print(f"  ❌ RF FAILED: {e}")
+    print(f"  [FAIL] RF FAILED: {e}")
     import traceback; traceback.print_exc()
 
 # ── SVM ────────────────────────────────────────────────────────────────────────
@@ -69,9 +69,9 @@ try:
     print(f"  RMSE = {m['rmse']:.2f}")
     print(f"  R²   = {m['r2']:.4f}")
     print(f"  Time = {svm['training_time']}s")
-    print("  ✅ SVM PASSED")
+    print("  [OK] SVM PASSED")
 except Exception as e:
-    print(f"  ❌ SVM FAILED: {e}")
+    print(f"  [FAIL] SVM FAILED: {e}")
     import traceback; traceback.print_exc()
 
 # ── Ticker mapper ──────────────────────────────────────────────────────────────
@@ -79,7 +79,7 @@ print("\nTesting ticker_mapper…")
 from ticker_mapper import get_company_name
 samples = ["TCS.NS", "RELIANCE.NS", "INFY.NS", "SBIN.NS", "UNKNWN.NS", "AAPL"]
 for t in samples:
-    print(f"  {t:25s} → {get_company_name(t)}")
-print("  ✅ Ticker mapper PASSED")
+    print(f"  {t:25s} -> {get_company_name(t)}")
+print("  [OK] Ticker mapper PASSED")
 
-print("\n✅ Smoke test complete")
+print("\n[OK] Smoke test complete")
